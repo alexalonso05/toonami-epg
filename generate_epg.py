@@ -41,6 +41,19 @@ CHANNEL_ID_MAP = {
     "MTV97": "mtv97",
 }
 
+# Some players match EPG channels by exact playlist channel-name text rather
+# than tvg-id, so the <display-name> must match the m3u8's display text
+# exactly (character for character, including "EST"/"PST" suffixes).
+PLAYLIST_DISPLAY_NAME = {
+    "toonami-east": "Toonami Aftermath East EST",
+    "toonami-west": "Toonami Aftermath West PST",
+    "toonami-movies": "Toonami Aftermath Movies",
+    "toonami-radio": "Toonami Aftermath Radio",
+    "snick-east": "Snickelodeon East EST",
+    "snick-west": "Snickelodeon West PST",
+    "mtv97": "MTV 97",
+}
+
 # Optional per-channel logo for the <channel><icon> element (matches the m3u8's tvg-logo).
 CHANNEL_LOGOS = {
     "toonami-east": "https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg",
@@ -117,10 +130,15 @@ def build_xmltv(collected):
         "generator-info-url": "https://api.toonamiaftermath.com",
     })
 
-    # <channel> elements first (XMLTV convention)
+    # <channel> elements first (XMLTV convention).
+    # Emit the exact playlist display-name FIRST (some players match on the
+    # first/only display-name text rather than tvg-id), then the API's own
+    # name as a second display-name for players that check all of them.
     for api_name, tvg_id in CHANNEL_ID_MAP.items():
         chan = ET.SubElement(tv, "channel", {"id": tvg_id})
-        ET.SubElement(chan, "display-name").text = api_name
+        ET.SubElement(chan, "display-name").text = PLAYLIST_DISPLAY_NAME.get(tvg_id, api_name)
+        if PLAYLIST_DISPLAY_NAME.get(tvg_id) != api_name:
+            ET.SubElement(chan, "display-name").text = api_name
         logo = CHANNEL_LOGOS.get(tvg_id)
         if logo:
             ET.SubElement(chan, "icon", {"src": logo})
