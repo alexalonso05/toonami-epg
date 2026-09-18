@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="isolation-test-v3">
+  <channel id="teststz">
+    <display-name>Test Channel</display-name>
+  </channel>
+  <programme start="20260917000000 +0000" stop="20260920000000 +0000" channel="teststz">
+    <title lang="en">Test Program</title>
+    <sub-title lang="en">If you can see this, EPG matching works</sub-title>
+    <category lang="en">Test</category>
+    <icon src="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg"/>
+    <episode-num system="onscreen">1</episode-num>
+  </programme>
+</tv>
