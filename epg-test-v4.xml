@@ -1,0 +1,12 @@
+<tv source-info-name="isolation-test-v4" source-info-url="https://example.com">
+  <channel id="CNN.us">
+    <display-name>US - CNN</display-name>
+  </channel>
+  <programme start="20260917000000 +0000" stop="20260920000000 +0000" channel="CNN.us">
+    <category lang="en">News</category>
+    <desc lang="en">If you can see this, EPG matching works.</desc>
+    <icon src="https://iptv-epg.org/images/Ng2dfvcbLG-h2yfb9kYFobXQ7aULcYrqANYw04-1X1aXFE7qQaEuOYrikR8aKthaRH0W1vyZQ4Tge6AufQm4QSB0-86WNUC5X93Tc4BdulU"/>
+    <title lang="en">CNN News Central</title>
+    <live/>
+  </programme>
+</tv>

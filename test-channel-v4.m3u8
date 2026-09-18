@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="Test",CNN
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
