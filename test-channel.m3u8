@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="teststz" tvg-name="Test Channel" group-title="Test",Test Channel
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
