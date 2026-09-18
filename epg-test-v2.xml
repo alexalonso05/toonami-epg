@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="isolation-test-v2">
+  <channel id="1">
+    <display-name>Test Channel</display-name>
+    <display-name>1</display-name>
+  </channel>
+  <programme start="20260917000000 +0000" stop="20260920000000 +0000" channel="1">
+    <title lang="en">Test Program</title>
+    <sub-title lang="en">If you can see this, EPG matching works</sub-title>
+  </programme>
+</tv>
