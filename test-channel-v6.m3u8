@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="https://cdn.jsdelivr.net/gh/alexalonso05/toonami-epg@main/test-channel-v6.xml" x-tvg-url="https://cdn.jsdelivr.net/gh/alexalonso05/toonami-epg@main/test-channel-v6.xml"
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr HD",Nick Jr HD
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
