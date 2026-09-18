@@ -1,0 +1,40 @@
+# Save this as .github/workflows/update-epg.yml in a GitHub repo
+# alongside generate_epg.py. It regenerates epg.xml every 3 hours so the
+# guide data never goes stale, then commits it back to the repo.
+#
+# Once set up, your permanent EPG URL to paste into STZ Player will be:
+#   https://raw.githubusercontent.com/<your-username>/<your-repo>/main/epg.xml
+
+name: Update Toonami Aftermath EPG
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate EPG
+        run: python generate_epg.py 48 epg.xml
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          git diff --cached --quiet || git commit -m "Update EPG data"
+          git push
