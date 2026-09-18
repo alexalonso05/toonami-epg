@@ -1,14 +1,17 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="toonami-aftermath-epg-generator" generator-info-url="https://api.toonamiaftermath.com">
   <channel id="toonami-east">
+    <display-name>Toonami Aftermath East EST</display-name>
     <display-name>Toonami Aftermath East</display-name>
     <icon src="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg"/>
   </channel>
   <channel id="toonami-west">
+    <display-name>Toonami Aftermath West PST</display-name>
     <display-name>Toonami Aftermath West</display-name>
     <icon src="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg"/>
   </channel>
   <channel id="toonami-movies">
+    <display-name>Toonami Aftermath Movies</display-name>
     <display-name>Movies</display-name>
     <icon src="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg"/>
   </channel>
@@ -17,21 +20,17 @@
     <icon src="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg"/>
   </channel>
   <channel id="snick-east">
+    <display-name>Snickelodeon East EST</display-name>
     <display-name>Snickelodeon East</display-name>
   </channel>
   <channel id="snick-west">
+    <display-name>Snickelodeon West PST</display-name>
     <display-name>Snickelodeon West</display-name>
   </channel>
   <channel id="mtv97">
+    <display-name>MTV 97</display-name>
     <display-name>MTV97</display-name>
   </channel>
-  <programme start="20260918181856 +0000" stop="20260918184401 +0000" channel="toonami-east">
-    <title lang="en">Saint Seiya</title>
-    <sub-title lang="en">Now It's Revealed! The Enigma of Ikki</sub-title>
-    <category lang="en">Toonami O.G.</category>
-    <episode-num system="onscreen">15</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif"/>
-  </programme>
   <programme start="20260918184401 +0000" stop="20260918190854 +0000" channel="toonami-east">
     <title lang="en">Mobile Suit Gundam</title>
     <sub-title lang="en">Black Tri-Star</sub-title>
@@ -88,12 +87,19 @@
     <episode-num system="onscreen">2</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
-  <programme start="20260918221058 +0000" stop="20260918230100 +0000" channel="toonami-east">
+  <programme start="20260918221058 +0000" stop="20260918223426 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z</title>
     <sub-title lang="en">Gohan's Hidden Powers</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">3</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20260918223426 +0000" stop="20260918230100 +0000" channel="toonami-east">
+    <title lang="en">Mobile Fighter G Gundam</title>
+    <sub-title lang="en">Burning Gundam's Great Triumph: A Hopeful Future; Ready, Go!</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">49</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/WCckIMt.gif"/>
   </programme>
   <programme start="20260918230100 +0000" stop="20260918234042 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z: Dead Zone</title>
