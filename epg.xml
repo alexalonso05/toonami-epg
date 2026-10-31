@@ -31,18 +31,6 @@
     <display-name>MTV 97</display-name>
     <display-name>MTV97</display-name>
   </channel>
-  <programme start="20261031204909 +0000" stop="20261031211553 +0000" channel="toonami-east">
-    <title lang="en">Kakurenbo</title>
-    <category lang="en">Halloween Special Block 3</category>
-  </programme>
-  <programme start="20261031211553 +0000" stop="20261031222656 +0000" channel="toonami-east">
-    <title lang="en">The Halloween Tree</title>
-    <category lang="en">Halloween Special Block 4</category>
-  </programme>
-  <programme start="20261031222656 +0000" stop="20261031234730 +0000" channel="toonami-east">
-    <title lang="en">The Batman vs Dracula</title>
-    <category lang="en">Halloween Special Block 4</category>
-  </programme>
   <programme start="20261031234730 +0000" stop="20261101011130 +0000" channel="toonami-east">
     <title lang="en">Vampire Hunter D</title>
     <category lang="en">Halloween Special Block 5</category>
@@ -67,9 +55,148 @@
     <title lang="en">Genocyber Part 3</title>
     <category lang="en">Halloween Special Block 6</category>
   </programme>
-  <programme start="20261101044459 +0000" stop="20261101194957 +0000" channel="toonami-east">
+  <programme start="20261101044459 +0000" stop="20261101051151 +0000" channel="toonami-east">
     <title lang="en">Genocyber Part 4</title>
     <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101051151 +0000" stop="20261101054206 +0000" channel="toonami-east">
+    <title lang="en">Genocyber Part 5</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101054206 +0000" stop="20261101072936 +0000" channel="toonami-east">
+    <title lang="en">Berserk The Golden Age Arc 3 - Descent</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101072936 +0000" stop="20261101095327 +0000" channel="toonami-east">
+    <title lang="en">Rifftrax - Harry Potter 3 And The Prisoner Of Azkaban</title>
+    <category lang="en">Toonami AfterParty</category>
+  </programme>
+  <programme start="20261101095327 +0000" stop="20261101110000 +0000" channel="toonami-east">
+    <title lang="en">Rifftrax - Island of Dr Moreau</title>
+    <category lang="en">Toonami AfterParty</category>
+  </programme>
+  <programme start="20261101110000 +0000" stop="20261101111117 +0000" channel="toonami-east">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Menace from the Bottom of the World Part 1</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">47</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101111117 +0000" stop="20261101112346 +0000" channel="toonami-east">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Menace from the Bottom of the World Part 2</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">48</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101112346 +0000" stop="20261101113419 +0000" channel="toonami-east">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Diamond Dust Part 1</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">49</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101113419 +0000" stop="20261101113531 +0000" channel="toonami-east">
+    <title lang="en">MST3K - S09E07 - Hobgoblins</title>
+    <category lang="en">Toonami AfterParty</category>
+  </programme>
+  <programme start="20261101113531 +0000" stop="20261101114751 +0000" channel="toonami-east">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Diamond Dust Part 2</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">50</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101114751 +0000" stop="20261101120943 +0000" channel="toonami-east">
+    <title lang="en">Fantastic Four</title>
+    <sub-title lang="en">It Started On Yancy Street</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Stqcavd.gif"/>
+  </programme>
+  <programme start="20261101120943 +0000" stop="20261101122845 +0000" channel="toonami-east">
+    <title lang="en">Iron Man</title>
+    <sub-title lang="en">Enter Hawkeye, So Spins the Web, Triple Jeopardy</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">6</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/ZkugjMx.gif"/>
+  </programme>
+  <programme start="20261101122845 +0000" stop="20261101143902 +0000" channel="toonami-east">
+    <title lang="en">Birdman</title>
+    <sub-title lang="en">The Wings of Fear</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/cAylbtL.gif"/>
+  </programme>
+  <programme start="20261101143902 +0000" stop="20261101150045 +0000" channel="toonami-east">
+    <title lang="en">Freakazoid</title>
+    <sub-title lang="en">Hero Boy</sub-title>
+    <category lang="en">Kids WB</category>
+    <episode-num system="onscreen">18</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qaSxxx8.gif"/>
+  </programme>
+  <programme start="20261101150045 +0000" stop="20261101152447 +0000" channel="toonami-east">
+    <title lang="en">Digimon</title>
+    <sub-title lang="en">Trash Day</sub-title>
+    <category lang="en">Rising Sun</category>
+    <episode-num system="onscreen">44</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rM5a4vc.gif"/>
+  </programme>
+  <programme start="20261101152447 +0000" stop="20261101154946 +0000" channel="toonami-east">
+    <title lang="en">Monster Rancher</title>
+    <sub-title lang="en">Mum Mew Risks it All</sub-title>
+    <category lang="en">Rising Sun</category>
+    <episode-num system="onscreen">69</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/8Q2xfrx.gif"/>
+  </programme>
+  <programme start="20261101154946 +0000" stop="20261101161322 +0000" channel="toonami-east">
+    <title lang="en">Yu-Gi-Oh!</title>
+    <sub-title lang="en">Mind Game (Part 2)</sub-title>
+    <category lang="en">Rising Sun</category>
+    <episode-num system="onscreen">91</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/F5wIvS0.gif"/>
+  </programme>
+  <programme start="20261101161322 +0000" stop="20261101163830 +0000" channel="toonami-east">
+    <title lang="en">Roughnecks: Starship Troopers Chronicles</title>
+    <sub-title lang="en">Sole Survivor</sub-title>
+    <category lang="en">Rising Sun</category>
+    <episode-num system="onscreen">10</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/aRS8xZQ.gif"/>
+  </programme>
+  <programme start="20261101163830 +0000" stop="20261101170128 +0000" channel="toonami-east">
+    <title lang="en">Beast Machines</title>
+    <sub-title lang="en">End of the Line</sub-title>
+    <category lang="en">Rising Sun</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/9E7F997.gif"/>
+  </programme>
+  <programme start="20261101170128 +0000" stop="20261101172250 +0000" channel="toonami-east">
+    <title lang="en">The Real Adventures of Jonny Quest</title>
+    <sub-title lang="en">Nemesis</sub-title>
+    <category lang="en">Cartoon High Noon</category>
+    <episode-num system="onscreen">22</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XOp3nEP.gif"/>
+  </programme>
+  <programme start="20261101172250 +0000" stop="20261101174454 +0000" channel="toonami-east">
+    <title lang="en">The Real Adventures of Jonny Quest</title>
+    <sub-title lang="en">Ghost Quest</sub-title>
+    <category lang="en">Cartoon High Noon</category>
+    <episode-num system="onscreen">23</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XOp3nEP.gif"/>
+  </programme>
+  <programme start="20261101174454 +0000" stop="20261101181142 +0000" channel="toonami-east">
+    <title lang="en">Jonny Quest</title>
+    <sub-title lang="en">Double Danger</sub-title>
+    <category lang="en">Cartoon High Noon</category>
+    <episode-num system="onscreen">9</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/1LkPW7k.gif"/>
+  </programme>
+  <programme start="20261101181142 +0000" stop="20261101194957 +0000" channel="toonami-east">
+    <title lang="en">Scooby Doo, Where Are You!</title>
+    <sub-title lang="en">Spooky Space Kook</sub-title>
+    <category lang="en">Cartoon High Noon</category>
+    <episode-num system="onscreen">15</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/i1ZedHL.gif"/>
   </programme>
   <programme start="20261101194957 +0000" stop="20261101201335 +0000" channel="toonami-east">
     <title lang="en">Batman Beyond</title>
@@ -393,45 +520,156 @@
     <category lang="en">Special: Cartoon Theater</category>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/Oxr6qMf.gif"/>
   </programme>
-  <programme start="20261031205145 +0000" stop="20261031211332 +0000" channel="toonami-west">
-    <title lang="en">Goosebumps Werewolf Skin Part 2</title>
-    <category lang="en">Halloween Special Block 1</category>
-  </programme>
-  <programme start="20261031211332 +0000" stop="20261031213519 +0000" channel="toonami-west">
-    <title lang="en">The Ghost of Maidens Peak</title>
-    <category lang="en">Halloween Special Block 2</category>
-  </programme>
-  <programme start="20261031213519 +0000" stop="20261031215707 +0000" channel="toonami-west">
-    <title lang="en">The Tower of Terror</title>
-    <category lang="en">Halloween Special Block 2</category>
-  </programme>
-  <programme start="20261031215707 +0000" stop="20261031222055 +0000" channel="toonami-west">
-    <title lang="en">Dead Before Dawn!</title>
-    <category lang="en">Halloween Special Block 3</category>
-  </programme>
-  <programme start="20261031222055 +0000" stop="20261031224221 +0000" channel="toonami-west">
-    <title lang="en">Candle Jack</title>
-    <category lang="en">Halloween Special Block 3</category>
-  </programme>
-  <programme start="20261031224221 +0000" stop="20261031230501 +0000" channel="toonami-west">
-    <title lang="en">Coffins and Cradles</title>
-    <category lang="en">Halloween Special Block 3</category>
-  </programme>
-  <programme start="20261031230501 +0000" stop="20261031232648 +0000" channel="toonami-west">
-    <title lang="en">Moon of the Wolf</title>
-    <category lang="en">Halloween Special Block 3</category>
-  </programme>
-  <programme start="20261031232648 +0000" stop="20261031234909 +0000" channel="toonami-west">
-    <title lang="en">Dreams in Darkness</title>
-    <category lang="en">Halloween Special Block 3</category>
-  </programme>
   <programme start="20261031234909 +0000" stop="20261101001553 +0000" channel="toonami-west">
     <title lang="en">Kakurenbo</title>
     <category lang="en">Halloween Special Block 3</category>
   </programme>
-  <programme start="20261101001553 +0000" stop="20261101193830 +0000" channel="toonami-west">
+  <programme start="20261101001553 +0000" stop="20261101012656 +0000" channel="toonami-west">
     <title lang="en">The Halloween Tree</title>
     <category lang="en">Halloween Special Block 4</category>
+  </programme>
+  <programme start="20261101012656 +0000" stop="20261101024730 +0000" channel="toonami-west">
+    <title lang="en">The Batman vs Dracula</title>
+    <category lang="en">Halloween Special Block 4</category>
+  </programme>
+  <programme start="20261101024730 +0000" stop="20261101041130 +0000" channel="toonami-west">
+    <title lang="en">Vampire Hunter D</title>
+    <category lang="en">Halloween Special Block 5</category>
+  </programme>
+  <programme start="20261101041130 +0000" stop="20261101050715 +0000" channel="toonami-west">
+    <title lang="en">Devilman I - The Birth</title>
+    <category lang="en">Halloween Special Block 5</category>
+  </programme>
+  <programme start="20261101050715 +0000" stop="20261101060328 +0000" channel="toonami-west">
+    <title lang="en">Devilman II - The Demon Bird</title>
+    <category lang="en">Halloween Special Block 5</category>
+  </programme>
+  <programme start="20261101060328 +0000" stop="20261101065254 +0000" channel="toonami-west">
+    <title lang="en">Genocyber Part 1</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101065254 +0000" stop="20261101072016 +0000" channel="toonami-west">
+    <title lang="en">Genocyber Part 2</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101072016 +0000" stop="20261101074459 +0000" channel="toonami-west">
+    <title lang="en">Genocyber Part 3</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101074459 +0000" stop="20261101081151 +0000" channel="toonami-west">
+    <title lang="en">Genocyber Part 4</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101081151 +0000" stop="20261101084206 +0000" channel="toonami-west">
+    <title lang="en">Genocyber Part 5</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101084206 +0000" stop="20261101102936 +0000" channel="toonami-west">
+    <title lang="en">Berserk The Golden Age Arc 3 - Descent</title>
+    <category lang="en">Halloween Special Block 6</category>
+  </programme>
+  <programme start="20261101102936 +0000" stop="20261101125327 +0000" channel="toonami-west">
+    <title lang="en">Rifftrax - Harry Potter 3 And The Prisoner Of Azkaban</title>
+    <category lang="en">Toonami AfterParty</category>
+  </programme>
+  <programme start="20261101125327 +0000" stop="20261101140000 +0000" channel="toonami-west">
+    <title lang="en">Rifftrax - Island of Dr Moreau</title>
+    <category lang="en">Toonami AfterParty</category>
+  </programme>
+  <programme start="20261101140000 +0000" stop="20261101141117 +0000" channel="toonami-west">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Menace from the Bottom of the World Part 1</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">47</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101141117 +0000" stop="20261101142346 +0000" channel="toonami-west">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Menace from the Bottom of the World Part 2</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">48</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101142346 +0000" stop="20261101143419 +0000" channel="toonami-west">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Diamond Dust Part 1</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">49</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101143419 +0000" stop="20261101143531 +0000" channel="toonami-west">
+    <title lang="en">MST3K - S09E07 - Hobgoblins</title>
+    <category lang="en">Toonami AfterParty</category>
+  </programme>
+  <programme start="20261101143531 +0000" stop="20261101144751 +0000" channel="toonami-west">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Diamond Dust Part 2</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">50</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20261101144751 +0000" stop="20261101150943 +0000" channel="toonami-west">
+    <title lang="en">Fantastic Four</title>
+    <sub-title lang="en">It Started On Yancy Street</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Stqcavd.gif"/>
+  </programme>
+  <programme start="20261101150943 +0000" stop="20261101152845 +0000" channel="toonami-west">
+    <title lang="en">Iron Man</title>
+    <sub-title lang="en">Enter Hawkeye, So Spins the Web, Triple Jeopardy</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">6</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/ZkugjMx.gif"/>
+  </programme>
+  <programme start="20261101152845 +0000" stop="20261101153640 +0000" channel="toonami-west">
+    <title lang="en">Birdman</title>
+    <sub-title lang="en">The Wings of Fear</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/cAylbtL.gif"/>
+  </programme>
+  <programme start="20261101153640 +0000" stop="20261101154534 +0000" channel="toonami-west">
+    <title lang="en">Birdman</title>
+    <sub-title lang="en">Birdman vs Dr. Freezoids</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">20</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/cAylbtL.gif"/>
+  </programme>
+  <programme start="20261101154534 +0000" stop="20261101155340 +0000" channel="toonami-west">
+    <title lang="en">Space Ghost</title>
+    <sub-title lang="en">The Iceman</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TKjCB1Z.gif"/>
+  </programme>
+  <programme start="20261101155340 +0000" stop="20261101160000 +0000" channel="toonami-west">
+    <title lang="en">Space Ghost</title>
+    <sub-title lang="en">The Time Machine</sub-title>
+    <category lang="en">Comic Corner</category>
+    <episode-num system="onscreen">20</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TKjCB1Z.gif"/>
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101162454 +0000" channel="toonami-west">
+    <title lang="en">Earthworm Jim</title>
+    <sub-title lang="en">The Anti-Fish</sub-title>
+    <category lang="en">Kids WB</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/sQB7OBu.gif"/>
+  </programme>
+  <programme start="20261101162454 +0000" stop="20261101164943 +0000" channel="toonami-west">
+    <title lang="en">Static Shock</title>
+    <sub-title lang="en">Toys in the Hood</sub-title>
+    <category lang="en">Kids WB</category>
+    <episode-num system="onscreen">36</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/riIBi2T.gif"/>
+  </programme>
+  <programme start="20261101164943 +0000" stop="20261101193830 +0000" channel="toonami-west">
+    <title lang="en">Animaniacs</title>
+    <sub-title lang="en">Useless Facts / The Senses / The World Can Wait / Kiki's Kitten</sub-title>
+    <category lang="en">Kids WB</category>
+    <episode-num system="onscreen">44</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Iahwehb.gif"/>
   </programme>
   <programme start="20261101193830 +0000" stop="20261101200128 +0000" channel="toonami-west">
     <title lang="en">Beast Machines</title>
@@ -756,41 +994,6 @@
     <episode-num system="onscreen">23</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif"/>
   </programme>
-  <programme start="20261031202946 +0000" stop="20261031210000 +0000" channel="snick-east">
-    <title lang="en">Legends of the Hidden Temple</title>
-    <category lang="en">Nickelodeon 4</category>
-    <episode-num system="onscreen">22</episode-num>
-  </programme>
-  <programme start="20261031210000 +0000" stop="20261031212953 +0000" channel="snick-east">
-    <title lang="en">Angry Beavers</title>
-    <category lang="en">Nickelodeon 5</category>
-    <episode-num system="onscreen">37</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODk0N2UwNGYtMWJiMy00Njk4LTg5NjctNzc1ODhlNDJkNTMxXkEyXkFqcGdeQXVyMzM4NjcxOTc@._V1_UY1200_CR108,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261031212953 +0000" stop="20261031220000 +0000" channel="snick-east">
-    <title lang="en">CatDog</title>
-    <category lang="en">Nickelodeon 5</category>
-    <episode-num system="onscreen">61</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTZhMjEwNzItZDM3OS00OGJmLWEzMjYtYzNiY2U5NTM1MzQ0XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR112,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261031220000 +0000" stop="20261031223026 +0000" channel="snick-east">
-    <title lang="en">The Tomorrow People</title>
-    <category lang="en">Nickelodeon 6</category>
-    <episode-num system="onscreen">3</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDNjZjZlYjQtN2Y3My00YjQzLWI3NGMtZDdhOThmNWQwNzk0XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY1200_CR93,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261031223026 +0000" stop="20261031230036 +0000" channel="snick-east">
-    <title lang="en">The Adventures of Pete &amp; Pete</title>
-    <category lang="en">Nickelodeon 6</category>
-    <episode-num system="onscreen">39</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA0Nzg1MjI3NF5BMl5BanBnXkFtZTcwODE1NzgyMQ@@._V1_UY1200_CR117,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261031230036 +0000" stop="20261031233013 +0000" channel="snick-east">
-    <title lang="en">Doug</title>
-    <category lang="en">Nickelodeon 6</category>
-    <episode-num system="onscreen">12</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ2NTQzNzI0MV5BMl5BanBnXkFtZTcwNTA5NzMwMg@@._V1_UY1200_CR113,0,630,1200_AL_.jpg"/>
-  </programme>
   <programme start="20261031233013 +0000" stop="20261101000000 +0000" channel="snick-east">
     <title lang="en">Rugrats</title>
     <category lang="en">Nickelodeon 6</category>
@@ -809,11 +1012,166 @@
     <episode-num system="onscreen">18</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZTlhZDYtNzg3MS00MTg5LThiZmItODI2NzA2MGRiZTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261101005907 +0000" stop="20261101194328 +0000" channel="snick-east">
+  <programme start="20261101005907 +0000" stop="20261101013121 +0000" channel="snick-east">
     <title lang="en">Animorphs</title>
     <category lang="en">Snick</category>
     <episode-num system="onscreen">12</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTk4MDQxNzU4OV5BMl5BanBnXkFtZTcwMzY5NzMyMQ@@._V1_UY1200_CR23,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101013121 +0000" stop="20261101020000 +0000" channel="snick-east">
+    <title lang="en">Are You Afraid Of The Dark</title>
+    <category lang="en">Snick</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODU0MTU5M2QtMjZiNi00OTZhLTgzZTktNmI4MGQ5NjMwMmE2XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR113,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="snick-east">
+    <title lang="en">Fireball XL5</title>
+    <category lang="en">Nick at Nite Strung Out In Space 1</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNGY1YWY1NWQtM2Y3Mi00OGFlLWIzNjQtYjc2ODkwNDM0NDUyXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_UY1200_CR146,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101023000 +0000" stop="20261101033000 +0000" channel="snick-east">
+    <title lang="en">Space 1999</title>
+    <category lang="en">Nick at Nite Strung Out In Space 2</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxNzA5MTI0MV5BMl5BanBnXkFtZTcwNDYwMjgyMQ@@._V1_UY1200_CR105,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101033000 +0000" stop="20261101035921 +0000" channel="snick-east">
+    <title lang="en">Joe 90</title>
+    <category lang="en">Nick at Nite Strung Out In Space 3</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg0MDM2NTAzNV5BMl5BanBnXkFtZTcwNzMyODQyMQ@@._V1_UY1200_CR112,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101035921 +0000" stop="20261101043000 +0000" channel="snick-east">
+    <title lang="en">Stingray</title>
+    <category lang="en">Nick at Nite Strung Out In Space 3</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjMyMDIwODA2NV5BMl5BanBnXkFtZTgwMTA2MDkwMzE@._V1_UY1200_CR485,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101043000 +0000" stop="20261101070000 +0000" channel="snick-east">
+    <title lang="en">Captain Scarlet and the Mysterons</title>
+    <category lang="en">Nick at Nite Strung Out In Space 4</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxODYyMDg5Nl5BMl5BanBnXkFtZTcwMDc1NjMyMQ@@._V1_UY1200_CR100,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101080000 +0000" channel="snick-east">
+    <title lang="en">Space 1999</title>
+    <category lang="en">Nick at Nite Strung Out In Space 2</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxNzA5MTI0MV5BMl5BanBnXkFtZTcwNDYwMjgyMQ@@._V1_UY1200_CR105,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101080000 +0000" stop="20261101082921 +0000" channel="snick-east">
+    <title lang="en">Joe 90</title>
+    <category lang="en">Nick at Nite Strung Out In Space 3</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg0MDM2NTAzNV5BMl5BanBnXkFtZTcwNzMyODQyMQ@@._V1_UY1200_CR112,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101082921 +0000" stop="20261101090000 +0000" channel="snick-east">
+    <title lang="en">Stingray</title>
+    <category lang="en">Nick at Nite Strung Out In Space 3</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjMyMDIwODA2NV5BMl5BanBnXkFtZTgwMTA2MDkwMzE@._V1_UY1200_CR485,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101093000 +0000" channel="snick-east">
+    <title lang="en">Captain Scarlet and the Mysterons</title>
+    <category lang="en">Nick at Nite Strung Out In Space 4</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxODYyMDg5Nl5BMl5BanBnXkFtZTcwMDc1NjMyMQ@@._V1_UY1200_CR100,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101093000 +0000" stop="20261101103000 +0000" channel="snick-east">
+    <title lang="en">UFO</title>
+    <category lang="en">Nick at Nite Strung Out In Space 5</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODEzZmI3NWYtNWZhNy00YjA2LTlkNmUtMWY2MDhmZWY0MmU2XkEyXkFqcGdeQXVyNzkzODA4NzI@._V1_UY1200_CR93,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101103000 +0000" stop="20261101110122 +0000" channel="snick-east">
+    <title lang="en">F Troop</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTMwNjMzMDk0N15BMl5BanBnXkFtZTcwNDI2NzIzMQ@@._V1._CR9,8,335,460_UY1200_CR122,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101110122 +0000" stop="20261101120000 +0000" channel="snick-east">
+    <title lang="en">Welcome Back Kotter</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">45</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNjIyMDY2Nl5BMl5BanBnXkFtZTcwMTAyNDUyOA@@._V1_UY1200_CR84,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101123232 +0000" channel="snick-east">
+    <title lang="en">Land of the Lost 1991</title>
+    <category lang="en">Nickelodeon 1</category>
+    <episode-num system="onscreen">7</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk2NDE2MDkxNF5BMl5BanBnXkFtZTYwNDAwOTk5._V1_UY1200_CR52,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101123232 +0000" stop="20261101130636 +0000" channel="snick-east">
+    <title lang="en">Mr Wizard</title>
+    <category lang="en">Nickelodeon 1</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2UyZjgzMzQtMjUyMi00NDkxLWEyMDAtOTEwZjY2MmYwZTljXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_UY1200_CR140,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101130636 +0000" stop="20261101142603 +0000" channel="snick-east">
+    <title lang="en">Flipper The New Adventures</title>
+    <category lang="en">Nickelodeon 1</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUzNTA4NTA4OF5BMl5BanBnXkFtZTcwNDQ1Mjg4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101142603 +0000" stop="20261101145349 +0000" channel="snick-east">
+    <title lang="en">David The Gnome</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDljMDQ1MTgtZjZmZC00ZDc5LWE5ZTQtOWVlNWI1NTNkMDBlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY1200_CR101,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101145349 +0000" stop="20261101152928 +0000" channel="snick-east">
+    <title lang="en">Busy World of Richard Scarry</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTY4NTg4NzkzMF5BMl5BanBnXkFtZTgwNjE4MzIxMjE@._V1_UY1200_CR239,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101152928 +0000" stop="20261101160000 +0000" channel="snick-east">
+    <title lang="en">Muppet Babies</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">13</episode-num>
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101162833 +0000" channel="snick-east">
+    <title lang="en">Allegras Window</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5NDM2MzQ1NV5BMl5BanBnXkFtZTcwODM3NTMyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101162833 +0000" stop="20261101165727 +0000" channel="snick-east">
+    <title lang="en">Gullah Gullah Island</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1Mjc4MDQ1NF5BMl5BanBnXkFtZTcwMTc2MTIyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101165727 +0000" stop="20261101172825 +0000" channel="snick-east">
+    <title lang="en">Little Bear</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTczNDQwMjU3MF5BMl5BanBnXkFtZTcwODUwMzMzMQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101172825 +0000" stop="20261101180000 +0000" channel="snick-east">
+    <title lang="en">Blue's Clues</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">63</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1OTE3MzE0OV5BMl5BanBnXkFtZTcwOTk4OTQ1MQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101180000 +0000" stop="20261101183057 +0000" channel="snick-east">
+    <title lang="en">Flipper</title>
+    <category lang="en">Nickelodeon 2</category>
+    <episode-num system="onscreen">62</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmUzZGFiYTYtY2I3Ny00MGJmLTlmZTItNTNhZTJjZGQyNDdiXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY1200_CR83,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101183057 +0000" stop="20261101190000 +0000" channel="snick-east">
+    <title lang="en">Lassie</title>
+    <category lang="en">Nickelodeon 2</category>
+    <episode-num system="onscreen">8</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmU1ZmY2OGQtYTcyMy00NGNhLWI4NWEtMzcwYzkxNjVmNGI0XkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_UY1200_CR87,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101194328 +0000" channel="snick-east">
+    <title lang="en">Weinerville</title>
+    <category lang="en">Nickelodeon 3</category>
+    <episode-num system="onscreen">14</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzk4YzBmYzItMDNjNy00ZDVhLWJmYTYtYTEyNWJmYWJiNzI1XkEyXkFqcGdeQXVyMzUwMTgwMw@@._V1_UY1200_CR495,0,630,1200_AL_.jpg"/>
   </programme>
   <programme start="20261101194328 +0000" stop="20261101200956 +0000" channel="snick-east">
     <title lang="en">Garfield and Friends</title>
@@ -1093,6 +1451,125 @@
     <category lang="en">Nickelodeon 6</category>
     <episode-num system="onscreen">1</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BOTVhNjY2MGItNDgyYy00Y2E5LWFlZmMtZTljY2Y1MzI0ZGI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR108,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261031232946 +0000" stop="20261101000000 +0000" channel="snick-west">
+    <title lang="en">Legends of the Hidden Temple</title>
+    <category lang="en">Nickelodeon 4</category>
+    <episode-num system="onscreen">22</episode-num>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101002953 +0000" channel="snick-west">
+    <title lang="en">Angry Beavers</title>
+    <category lang="en">Nickelodeon 5</category>
+    <episode-num system="onscreen">37</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODk0N2UwNGYtMWJiMy00Njk4LTg5NjctNzc1ODhlNDJkNTMxXkEyXkFqcGdeQXVyMzM4NjcxOTc@._V1_UY1200_CR108,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101002953 +0000" stop="20261101010000 +0000" channel="snick-west">
+    <title lang="en">CatDog</title>
+    <category lang="en">Nickelodeon 5</category>
+    <episode-num system="onscreen">61</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTZhMjEwNzItZDM3OS00OGJmLWEzMjYtYzNiY2U5NTM1MzQ0XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR112,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101010000 +0000" stop="20261101013026 +0000" channel="snick-west">
+    <title lang="en">The Tomorrow People</title>
+    <category lang="en">Nickelodeon 6</category>
+    <episode-num system="onscreen">3</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZDNjZjZlYjQtN2Y3My00YjQzLWI3NGMtZDdhOThmNWQwNzk0XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY1200_CR93,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101013026 +0000" stop="20261101020036 +0000" channel="snick-west">
+    <title lang="en">The Adventures of Pete &amp; Pete</title>
+    <category lang="en">Nickelodeon 6</category>
+    <episode-num system="onscreen">39</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA0Nzg1MjI3NF5BMl5BanBnXkFtZTcwODE1NzgyMQ@@._V1_UY1200_CR117,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101020036 +0000" stop="20261101023013 +0000" channel="snick-west">
+    <title lang="en">Doug</title>
+    <category lang="en">Nickelodeon 6</category>
+    <episode-num system="onscreen">12</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ2NTQzNzI0MV5BMl5BanBnXkFtZTcwNTA5NzMwMg@@._V1_UY1200_CR113,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101023013 +0000" stop="20261101030000 +0000" channel="snick-west">
+    <title lang="en">Rugrats</title>
+    <category lang="en">Nickelodeon 6</category>
+    <episode-num system="onscreen">90</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTVhNjY2MGItNDgyYy00Y2E5LWFlZmMtZTljY2Y1MzI0ZGI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR108,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101033211 +0000" channel="snick-west">
+    <title lang="en">KaBlam!</title>
+    <category lang="en">Snick</category>
+    <episode-num system="onscreen">22</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjE3ZTdmNTctZmYzZi00MDRmLTgzNjUtYTc1MjBiOTdjNjJlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY1200_CR99,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101033211 +0000" stop="20261101035907 +0000" channel="snick-west">
+    <title lang="en">All That</title>
+    <category lang="en">Snick</category>
+    <episode-num system="onscreen">18</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZTlhZDYtNzg3MS00MTg5LThiZmItODI2NzA2MGRiZTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101035907 +0000" stop="20261101073000 +0000" channel="snick-west">
+    <title lang="en">Animorphs</title>
+    <category lang="en">Snick</category>
+    <episode-num system="onscreen">12</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk4MDQxNzU4OV5BMl5BanBnXkFtZTcwMzY5NzMyMQ@@._V1_UY1200_CR23,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101073000 +0000" stop="20261101080000 +0000" channel="snick-west">
+    <title lang="en">Captain Scarlet and the Mysterons</title>
+    <category lang="en">Nick at Nite Strung Out In Space 4</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxODYyMDg5Nl5BMl5BanBnXkFtZTcwMDc1NjMyMQ@@._V1_UY1200_CR100,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101080000 +0000" stop="20261101090000 +0000" channel="snick-west">
+    <title lang="en">UFO</title>
+    <category lang="en">Nick at Nite Strung Out In Space 5</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODEzZmI3NWYtNWZhNy00YjA2LTlkNmUtMWY2MDhmZWY0MmU2XkEyXkFqcGdeQXVyNzkzODA4NzI@._V1_UY1200_CR93,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101093122 +0000" channel="snick-west">
+    <title lang="en">F Troop</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTMwNjMzMDk0N15BMl5BanBnXkFtZTcwNDI2NzIzMQ@@._V1._CR9,8,335,460_UY1200_CR122,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101093122 +0000" stop="20261101100000 +0000" channel="snick-west">
+    <title lang="en">Welcome Back Kotter</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">45</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNjIyMDY2Nl5BMl5BanBnXkFtZTcwMTAyNDUyOA@@._V1_UY1200_CR84,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101100000 +0000" stop="20261101110000 +0000" channel="snick-west">
+    <title lang="en">Space 1999</title>
+    <category lang="en">Nick at Nite Strung Out In Space 2</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxNzA5MTI0MV5BMl5BanBnXkFtZTcwNDYwMjgyMQ@@._V1_UY1200_CR105,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101110000 +0000" stop="20261101112921 +0000" channel="snick-west">
+    <title lang="en">Joe 90</title>
+    <category lang="en">Nick at Nite Strung Out In Space 3</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg0MDM2NTAzNV5BMl5BanBnXkFtZTcwNzMyODQyMQ@@._V1_UY1200_CR112,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101112921 +0000" stop="20261101120000 +0000" channel="snick-west">
+    <title lang="en">Stingray</title>
+    <category lang="en">Nick at Nite Strung Out In Space 3</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjMyMDIwODA2NV5BMl5BanBnXkFtZTgwMTA2MDkwMzE@._V1_UY1200_CR485,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101123000 +0000" channel="snick-west">
+    <title lang="en">Captain Scarlet and the Mysterons</title>
+    <category lang="en">Nick at Nite Strung Out In Space 4</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxODYyMDg5Nl5BMl5BanBnXkFtZTcwMDc1NjMyMQ@@._V1_UY1200_CR100,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101123000 +0000" stop="20261101133000 +0000" channel="snick-west">
+    <title lang="en">UFO</title>
+    <category lang="en">Nick at Nite Strung Out In Space 5</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODEzZmI3NWYtNWZhNy00YjA2LTlkNmUtMWY2MDhmZWY0MmU2XkEyXkFqcGdeQXVyNzkzODA4NzI@._V1_UY1200_CR93,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261101133000 +0000" stop="20261101150000 +0000" channel="snick-west">
+    <title lang="en">F Troop</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTMwNjMzMDk0N15BMl5BanBnXkFtZTcwNDI2NzIzMQ@@._V1._CR9,8,335,460_UY1200_CR122,0,630,1200_AL_.jpg"/>
   </programme>
   <programme start="20261101150000 +0000" stop="20261101153232 +0000" channel="snick-west">
     <title lang="en">Land of the Lost 1991</title>
