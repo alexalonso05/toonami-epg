@@ -31,192 +31,6 @@
     <display-name>MTV 97</display-name>
     <display-name>MTV97</display-name>
   </channel>
-  <programme start="20261117061225 +0000" stop="20261117063522 +0000" channel="toonami-east">
-    <title lang="en">Lupin the 3rd</title>
-    <sub-title lang="en">Happy Betrayals to You</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">38</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif"/>
-  </programme>
-  <programme start="20261117063522 +0000" stop="20261117070000 +0000" channel="toonami-east">
-    <title lang="en">Ranma 1/2</title>
-    <sub-title lang="en">Ranma Gains Yet Another Suitor</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">41</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif"/>
-  </programme>
-  <programme start="20261117070000 +0000" stop="20261117072708 +0000" channel="toonami-east">
-    <title lang="en">Berserk</title>
-    <sub-title lang="en">Moment of Glory</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">17</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ilYReUx.gif"/>
-  </programme>
-  <programme start="20261117072708 +0000" stop="20261117074212 +0000" channel="toonami-east">
-    <title lang="en">12 oz Mouse</title>
-    <sub-title lang="en">Enjoy the Arm</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">12</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VxDpdPC.gif"/>
-  </programme>
-  <programme start="20261117074212 +0000" stop="20261117080702 +0000" channel="toonami-east">
-    <title lang="en">Pokemon Origins</title>
-    <sub-title lang="en">Giovanni</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">3</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/3jszYQJ.gif"/>
-  </programme>
-  <programme start="20261117080702 +0000" stop="20261117083458 +0000" channel="toonami-east">
-    <title lang="en">Shin Chan</title>
-    <sub-title lang="en">Sticky's My Favorite Flavor</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">16</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWL4wlj.gif"/>
-  </programme>
-  <programme start="20261117083458 +0000" stop="20261117090000 +0000" channel="toonami-east">
-    <title lang="en">Nadia: The Secret of Blue Water</title>
-    <sub-title lang="en">Nadia's Love...?</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">32</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif"/>
-  </programme>
-  <programme start="20261117090000 +0000" stop="20261117092957 +0000" channel="toonami-east">
-    <title lang="en">Pokemon</title>
-    <sub-title lang="en">Princess vs. Princess</sub-title>
-    <category lang="en">Classic Toon</category>
-    <episode-num system="onscreen">50</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif"/>
-  </programme>
-  <programme start="20261117092957 +0000" stop="20261117100130 +0000" channel="toonami-east">
-    <title lang="en">Teen Titans</title>
-    <sub-title lang="en">Fractured</sub-title>
-    <category lang="en">Classic Toon</category>
-    <episode-num system="onscreen">24</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/Csz1Dr1.gif"/>
-  </programme>
-  <programme start="20261117100130 +0000" stop="20261117102524 +0000" channel="toonami-east">
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Strange Visitor</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">56</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
-  </programme>
-  <programme start="20261117102524 +0000" stop="20261117104948 +0000" channel="toonami-east">
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Mirror of Dreams! Amazon's Final Stage</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">142</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
-  </programme>
-  <programme start="20261117104948 +0000" stop="20261117111254 +0000" channel="toonami-east">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">The Fight is Over</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">166</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261117111254 +0000" stop="20261117113600 +0000" channel="toonami-east">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Faith in a Boy</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">167</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261117113600 +0000" stop="20261117120020 +0000" channel="toonami-east">
-    <title lang="en">Mobile Fighter G Gundam</title>
-    <sub-title lang="en">Warrior's Crest- Goodbye, Shuffle Alliance</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">15</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/WCckIMt.gif"/>
-  </programme>
-  <programme start="20261117120020 +0000" stop="20261117130736 +0000" channel="toonami-east">
-    <title lang="en">The Land Before Time</title>
-    <category lang="en">Special: Cartoon Theater</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/QRieOY1.gif"/>
-  </programme>
-  <programme start="20261117130736 +0000" stop="20261117133104 +0000" channel="toonami-east">
-    <title lang="en">The Powerpuff Girls</title>
-    <sub-title lang="en">Birthday Bash / Too Pooped to Puff</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">16</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/8ULe6pE.gif"/>
-  </programme>
-  <programme start="20261117133104 +0000" stop="20261117134216 +0000" channel="toonami-east">
-    <title lang="en">Ed Edd n' Eddy</title>
-    <sub-title lang="en">Dear Ed</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">28</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"/>
-  </programme>
-  <programme start="20261117134216 +0000" stop="20261117135025 +0000" channel="toonami-east">
-    <title lang="en">Dexter's Laboratory</title>
-    <sub-title lang="en">Dee Dee's Rival</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">130</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/hMP6ON2.gif"/>
-  </programme>
-  <programme start="20261117135025 +0000" stop="20261117140130 +0000" channel="toonami-east">
-    <title lang="en">2 Stupid Dogs</title>
-    <sub-title lang="en">Cookies, Ookies, Blookies</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">46</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/wQWDVZi.gif"/>
-  </programme>
-  <programme start="20261117140130 +0000" stop="20261117151300 +0000" channel="toonami-east">
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Arale vs. Blue</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">57</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
-  </programme>
-  <programme start="20261117151300 +0000" stop="20261117153622 +0000" channel="toonami-east">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Android Explosion</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">169</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261117153622 +0000" stop="20261117160030 +0000" channel="toonami-east">
-    <title lang="en">Gundam Wing</title>
-    <sub-title lang="en">Portrait of a Ruined Country</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">9</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
-  </programme>
-  <programme start="20261117160030 +0000" stop="20261117161449 +0000" channel="toonami-east">
-    <title lang="en">Space Ghost Coast to Coast</title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">30</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
-  </programme>
-  <programme start="20261117161449 +0000" stop="20261117163803 +0000" channel="toonami-east">
-    <title lang="en">Home Movies</title>
-    <sub-title lang="en">Temporary Blindness</sub-title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">51</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"/>
-  </programme>
-  <programme start="20261117163803 +0000" stop="20261117170030 +0000" channel="toonami-east">
-    <title lang="en">Dr. Katz</title>
-    <sub-title lang="en">Studio Guy</sub-title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">27</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ILKvVhz.gif"/>
-  </programme>
-  <programme start="20261117170030 +0000" stop="20261117172131 +0000" channel="toonami-east">
-    <title lang="en">X-Men</title>
-    <sub-title lang="en">Night of the Sentinels (Part 2)</sub-title>
-    <category lang="en">Marvel vs Capcom</category>
-    <episode-num system="onscreen">2</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ZSZ0x1m.gif"/>
-  </programme>
-  <programme start="20261117172131 +0000" stop="20261117174700 +0000" channel="toonami-east">
-    <title lang="en">Mega Man</title>
-    <sub-title lang="en">Mega X</sub-title>
-    <category lang="en">Marvel vs Capcom</category>
-    <episode-num system="onscreen">26</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/vhvmTlP.gif"/>
-  </programme>
   <programme start="20261117174700 +0000" stop="20261117180914 +0000" channel="toonami-east">
     <title lang="en">Men in Black: The Series</title>
     <sub-title lang="en">The Dog Eat Dog Syndrome</sub-title>
@@ -231,12 +45,26 @@
     <episode-num system="onscreen">1</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif"/>
   </programme>
-  <programme start="20261117183358 +0000" stop="20261117194427 +0000" channel="toonami-east">
+  <programme start="20261117183358 +0000" stop="20261117185530 +0000" channel="toonami-east">
     <title lang="en">Spider-Man</title>
     <sub-title lang="en">Blade, the Vampire Hunter</sub-title>
     <category lang="en">Marvel vs Capcom</category>
     <episode-num system="onscreen">22</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif"/>
+  </programme>
+  <programme start="20261117185530 +0000" stop="20261117191904 +0000" channel="toonami-east">
+    <title lang="en">Silverhawks</title>
+    <sub-title lang="en">Save The Sun</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">4</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/dpR9jOG.gif"/>
+  </programme>
+  <programme start="20261117191904 +0000" stop="20261117194427 +0000" channel="toonami-east">
+    <title lang="en">Saint Seiya</title>
+    <sub-title lang="en">The Fear of Nothingness! The Open Eyes of Shaka</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">57</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif"/>
   </programme>
   <programme start="20261117194427 +0000" stop="20261117201030 +0000" channel="toonami-east">
     <title lang="en">Mobile Suit Zeta Gundam</title>
@@ -336,40 +164,40 @@
     <episode-num system="onscreen">29</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"/>
   </programme>
-  <programme start="20261118013522 +0000" stop="20261118014251 +0000" channel="toonami-east">
+  <programme start="20261118013522 +0000" stop="20261118022523 +0000" channel="toonami-east">
     <title lang="en">Johnny Bravo</title>
     <sub-title lang="en">Bootman</sub-title>
     <category lang="en">Cartoon Cartoon</category>
     <episode-num system="onscreen">139</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/duW3ILx.gif"/>
   </programme>
-  <programme start="20261118014251 +0000" stop="20261118015041 +0000" channel="toonami-east">
-    <title lang="en">What A Cartoon! Show</title>
-    <sub-title lang="en">Hard Luck Duck</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">5</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/Vfe6dDZ.gif"/>
-  </programme>
-  <programme start="20261118015041 +0000" stop="20261118020130 +0000" channel="toonami-east">
-    <title lang="en">Cow and Chicken</title>
-    <sub-title lang="en">Dirty Laundry</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">35</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/0QYl7ZQ.gif"/>
-  </programme>
-  <programme start="20261118020130 +0000" stop="20261118022523 +0000" channel="toonami-east">
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">The Notorious Mercenary</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">59</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
-  </programme>
-  <programme start="20261118022523 +0000" stop="20261118040543 +0000" channel="toonami-east">
+  <programme start="20261118022523 +0000" stop="20261118024946 +0000" channel="toonami-east">
     <title lang="en">Sailor Moon</title>
     <sub-title lang="en">Burning Passion! Mars' Furious Deadly Attack</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">145</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20261118024946 +0000" stop="20261118031259 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">The Unstoppable Gohan</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">172</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261118031259 +0000" stop="20261118033622 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">Cell's Mighty Breakdown</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">173</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261118033622 +0000" stop="20261118040543 +0000" channel="toonami-east">
+    <title lang="en">Gundam Wing</title>
+    <sub-title lang="en">Heero, Distracted by Defeat</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">10</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
   </programme>
   <programme start="20261118040543 +0000" stop="20261118043131 +0000" channel="toonami-east">
     <title lang="en">Space Ghost Coast to Coast</title>
@@ -405,19 +233,12 @@
     <episode-num system="onscreen">15</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/lZ8iahD.gif"/>
   </programme>
-  <programme start="20261118061336 +0000" stop="20261118063647 +0000" channel="toonami-east">
+  <programme start="20261118061336 +0000" stop="20261118070000 +0000" channel="toonami-east">
     <title lang="en">Lupin the 3rd</title>
     <sub-title lang="en">Pretty Cluckin' Insane</sub-title>
     <category lang="en">Midnight Run</category>
     <episode-num system="onscreen">39</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif"/>
-  </programme>
-  <programme start="20261118063647 +0000" stop="20261118070000 +0000" channel="toonami-east">
-    <title lang="en">Ranma 1/2</title>
-    <sub-title lang="en">Ryoga &amp; Akane: 2-Gether, 4-Ever</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">42</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif"/>
   </programme>
   <programme start="20261118070000 +0000" stop="20261118072914 +0000" channel="toonami-east">
     <title lang="en">Berserk</title>
@@ -433,12 +254,26 @@
     <episode-num system="onscreen">1</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/AnkyrnS.gif"/>
   </programme>
-  <programme start="20261118074627 +0000" stop="20261118090000 +0000" channel="toonami-east">
+  <programme start="20261118074627 +0000" stop="20261118081722 +0000" channel="toonami-east">
     <title lang="en">Pokemon Origins</title>
     <sub-title lang="en">Charizard (Finale)</sub-title>
     <category lang="en">All Kids Outta The Pool</category>
     <episode-num system="onscreen">4</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/3jszYQJ.gif"/>
+  </programme>
+  <programme start="20261118081722 +0000" stop="20261118083458 +0000" channel="toonami-east">
+    <title lang="en">Cromartie High School</title>
+    <sub-title lang="en">Let Me Tell You My Name</sub-title>
+    <category lang="en">All Kids Outta The Pool</category>
+    <episode-num system="onscreen">17</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4BYylmk.gif"/>
+  </programme>
+  <programme start="20261118083458 +0000" stop="20261118090000 +0000" channel="toonami-east">
+    <title lang="en">Nadia: The Secret of Blue Water</title>
+    <sub-title lang="en">King's Rescue</sub-title>
+    <category lang="en">All Kids Outta The Pool</category>
+    <episode-num system="onscreen">33</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif"/>
   </programme>
   <programme start="20261118090000 +0000" stop="20261118092952 +0000" channel="toonami-east">
     <title lang="en">Pokemon</title>
@@ -468,33 +303,12 @@
     <episode-num system="onscreen">144</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
   </programme>
-  <programme start="20261118104949 +0000" stop="20261118111233 +0000" channel="toonami-east">
+  <programme start="20261118104949 +0000" stop="20261118123023 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z</title>
     <sub-title lang="en">Cell Juniors Attack!</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">170</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261118111233 +0000" stop="20261118113601 +0000" channel="toonami-east">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">The Unleashing</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">171</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261118113601 +0000" stop="20261118120029 +0000" channel="toonami-east">
-    <title lang="en">Mobile Fighter G Gundam</title>
-    <sub-title lang="en">Ultimate Power and Evil! Rise of the Dark Gundam</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">16</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/WCckIMt.gif"/>
-  </programme>
-  <programme start="20261118120029 +0000" stop="20261118123023 +0000" channel="toonami-east">
-    <title lang="en">Samurai Jack</title>
-    <sub-title lang="en">Jack and the Farting Dragon</sub-title>
-    <category lang="en">Special: Samurai Jack</category>
-    <episode-num system="onscreen">21</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/twLpmyP.gif"/>
   </programme>
   <programme start="20261118123023 +0000" stop="20261118130102 +0000" channel="toonami-east">
     <title lang="en">Samurai Jack</title>
@@ -503,12 +317,54 @@
     <episode-num system="onscreen">22</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/twLpmyP.gif"/>
   </programme>
-  <programme start="20261118130102 +0000" stop="20261118144946 +0000" channel="toonami-east">
+  <programme start="20261118130102 +0000" stop="20261118132355 +0000" channel="toonami-east">
     <title lang="en">Courage the Cowardly Dog</title>
     <sub-title lang="en">The Revenge of the Chicken from Outer Space / Journey to the Center of Nowhere</sub-title>
     <category lang="en">Cartoon Cartoon</category>
     <episode-num system="onscreen">12</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/KD0PG3P.gif"/>
+  </programme>
+  <programme start="20261118132355 +0000" stop="20261118133522 +0000" channel="toonami-east">
+    <title lang="en">Ed Edd n' Eddy</title>
+    <sub-title lang="en">Knock Knock, Who's Ed</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">29</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"/>
+  </programme>
+  <programme start="20261118133522 +0000" stop="20261118134251 +0000" channel="toonami-east">
+    <title lang="en">Johnny Bravo</title>
+    <sub-title lang="en">Bootman</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">139</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/duW3ILx.gif"/>
+  </programme>
+  <programme start="20261118134251 +0000" stop="20261118135041 +0000" channel="toonami-east">
+    <title lang="en">What A Cartoon! Show</title>
+    <sub-title lang="en">Hard Luck Duck</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Vfe6dDZ.gif"/>
+  </programme>
+  <programme start="20261118135041 +0000" stop="20261118140130 +0000" channel="toonami-east">
+    <title lang="en">Cow and Chicken</title>
+    <sub-title lang="en">Dirty Laundry</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">35</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/0QYl7ZQ.gif"/>
+  </programme>
+  <programme start="20261118140130 +0000" stop="20261118142523 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball</title>
+    <sub-title lang="en">The Notorious Mercenary</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">59</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20261118142523 +0000" stop="20261118144946 +0000" channel="toonami-east">
+    <title lang="en">Sailor Moon</title>
+    <sub-title lang="en">Burning Passion! Mars' Furious Deadly Attack</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">145</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
   </programme>
   <programme start="20261118144946 +0000" stop="20261118151259 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z</title>
@@ -517,46 +373,12 @@
     <episode-num system="onscreen">172</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
-  <programme start="20261118151259 +0000" stop="20261118153622 +0000" channel="toonami-east">
+  <programme start="20261118151259 +0000" stop="20261118174616 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z</title>
     <sub-title lang="en">Cell's Mighty Breakdown</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">173</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261118153622 +0000" stop="20261118160543 +0000" channel="toonami-east">
-    <title lang="en">Gundam Wing</title>
-    <sub-title lang="en">Heero, Distracted by Defeat</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">10</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
-  </programme>
-  <programme start="20261118160543 +0000" stop="20261118163131 +0000" channel="toonami-east">
-    <title lang="en">Space Ghost Coast to Coast</title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">31</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
-  </programme>
-  <programme start="20261118163131 +0000" stop="20261118170030 +0000" channel="toonami-east">
-    <title lang="en">Home Movies</title>
-    <sub-title lang="en">Focus Grill (Finale)</sub-title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">52</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"/>
-  </programme>
-  <programme start="20261118170030 +0000" stop="20261118172142 +0000" channel="toonami-east">
-    <title lang="en">X-Men</title>
-    <sub-title lang="en">Enter Magneto</sub-title>
-    <category lang="en">Marvel vs Capcom</category>
-    <episode-num system="onscreen">3</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ZSZ0x1m.gif"/>
-  </programme>
-  <programme start="20261118172142 +0000" stop="20261118174616 +0000" channel="toonami-east">
-    <title lang="en">Mega Man</title>
-    <sub-title lang="en">Crime of the Century (Finale)</sub-title>
-    <category lang="en">Marvel vs Capcom</category>
-    <episode-num system="onscreen">27</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/vhvmTlP.gif"/>
   </programme>
   <programme start="20261118174616 +0000" stop="20261118180837 +0000" channel="toonami-east">
     <title lang="en">Men in Black: The Series</title>
@@ -572,12 +394,26 @@
     <episode-num system="onscreen">2</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif"/>
   </programme>
-  <programme start="20261118183337 +0000" stop="20261118194400 +0000" channel="toonami-east">
+  <programme start="20261118183337 +0000" stop="20261118185600 +0000" channel="toonami-east">
     <title lang="en">Spider-Man</title>
     <sub-title lang="en">The Immortal Vampire</sub-title>
     <category lang="en">Marvel vs Capcom</category>
     <episode-num system="onscreen">23</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif"/>
+  </programme>
+  <programme start="20261118185600 +0000" stop="20261118191903 +0000" channel="toonami-east">
+    <title lang="en">Thundercats</title>
+    <sub-title lang="en">Safari Joe</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">24</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/7TOnnN5.gif"/>
+  </programme>
+  <programme start="20261118191903 +0000" stop="20261118194400 +0000" channel="toonami-east">
+    <title lang="en">Saint Seiya</title>
+    <sub-title lang="en">Hero! Ikki Destroyed For Brotherly Love</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">58</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif"/>
   </programme>
   <programme start="20261118194400 +0000" stop="20261118200942 +0000" channel="toonami-east">
     <title lang="en">Mobile Suit Zeta Gundam</title>
@@ -677,40 +513,46 @@
     <episode-num system="onscreen">4</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
   </programme>
-  <programme start="20261119004246 +0000" stop="20261119005141 +0000" channel="toonami-east">
+  <programme start="20261119004246 +0000" stop="20261119022530 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z: Abridged</title>
     <sub-title lang="en">No One Ever Listens To The Magical Dragon</sub-title>
     <category lang="en">Special: DBZ Abridged</category>
     <episode-num system="onscreen">5</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
   </programme>
-  <programme start="20261119005141 +0000" stop="20261119011435 +0000" channel="toonami-east">
-    <title lang="en">The Powerpuff Girls</title>
-    <sub-title lang="en">Dream Scheme / You Snooze, You Lose</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">17</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/8ULe6pE.gif"/>
+  <programme start="20261119022530 +0000" stop="20261119024952 +0000" channel="toonami-east">
+    <title lang="en">Sailor Moon</title>
+    <sub-title lang="en">Confrontation in Dreams! Minako and Makoto's Broken Friendship</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">147</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
   </programme>
-  <programme start="20261119011435 +0000" stop="20261119012527 +0000" channel="toonami-east">
-    <title lang="en">Ed Edd n' Eddy</title>
-    <sub-title lang="en">One + One = Ed</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">30</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"/>
+  <programme start="20261119024952 +0000" stop="20261119031251 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">The Horror Won't End</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">176</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
-  <programme start="20261119012527 +0000" stop="20261119013201 +0000" channel="toonami-east">
-    <title lang="en">I Am Weasel</title>
-    <sub-title lang="en">I Are Terraformer!</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">53</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif"/>
+  <programme start="20261119031251 +0000" stop="20261119033622 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">Save the World</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">177</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
-  <programme start="20261119013201 +0000" stop="20261119042331 +0000" channel="toonami-east">
-    <title lang="en">Dexter's Laboratory</title>
-    <sub-title lang="en">Slightly Psycho</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">131</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/hMP6ON2.gif"/>
+  <programme start="20261119033622 +0000" stop="20261119040132 +0000" channel="toonami-east">
+    <title lang="en">Gundam Wing</title>
+    <sub-title lang="en">The Whereabouts of Happiness</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">11</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
+  </programme>
+  <programme start="20261119040132 +0000" stop="20261119042331 +0000" channel="toonami-east">
+    <title lang="en">Space Ghost Coast to Coast</title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">32</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
   </programme>
   <programme start="20261119042331 +0000" stop="20261119044754 +0000" channel="toonami-east">
     <title lang="en">Mission Hill</title>
@@ -740,26 +582,12 @@
     <episode-num system="onscreen">106</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif"/>
   </programme>
-  <programme start="20261119054837 +0000" stop="20261119061318 +0000" channel="toonami-east">
+  <programme start="20261119054837 +0000" stop="20261119070000 +0000" channel="toonami-east">
     <title lang="en">Tenchi Universe</title>
     <sub-title lang="en">No Need for Hiding!</sub-title>
     <category lang="en">Midnight Run</category>
     <episode-num system="onscreen">16</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/lZ8iahD.gif"/>
-  </programme>
-  <programme start="20261119061318 +0000" stop="20261119063647 +0000" channel="toonami-east">
-    <title lang="en">Lupin the 3rd</title>
-    <sub-title lang="en">Payload</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">40</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif"/>
-  </programme>
-  <programme start="20261119063647 +0000" stop="20261119070000 +0000" channel="toonami-east">
-    <title lang="en">Ranma 1/2</title>
-    <sub-title lang="en">Sneeze Me, Squeeze Me, Please Me! Shampoo's Recipe For Disaster</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">43</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif"/>
   </programme>
   <programme start="20261119070000 +0000" stop="20261119072652 +0000" channel="toonami-east">
     <title lang="en">Berserk</title>
@@ -775,198 +603,201 @@
     <episode-num system="onscreen">1</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/hYYjVXJ.gif"/>
   </programme>
-  <programme start="20261119074150 +0000" stop="20261119081150 +0000" channel="toonami-east">
+  <programme start="20261119074150 +0000" stop="20261119080920 +0000" channel="toonami-east">
     <title lang="en">Girls Und Panzer</title>
     <sub-title lang="en">Tankery, Here It Comes!</sub-title>
     <category lang="en">All Kids Outta The Pool</category>
     <episode-num system="onscreen">1</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/8QvgeUC.gif"/>
   </programme>
-  <programme start="20261117061300 +0000" stop="20261117063622 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Android Explosion</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">169</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261117063622 +0000" stop="20261117070030 +0000" channel="toonami-west">
-    <title lang="en">Gundam Wing</title>
-    <sub-title lang="en">Portrait of a Ruined Country</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">9</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
-  </programme>
-  <programme start="20261117070030 +0000" stop="20261117071449 +0000" channel="toonami-west">
-    <title lang="en">Space Ghost Coast to Coast</title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">30</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
-  </programme>
-  <programme start="20261117071449 +0000" stop="20261117073803 +0000" channel="toonami-west">
-    <title lang="en">Home Movies</title>
-    <sub-title lang="en">Temporary Blindness</sub-title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">51</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"/>
-  </programme>
-  <programme start="20261117073803 +0000" stop="20261117080059 +0000" channel="toonami-west">
-    <title lang="en">Dr. Katz</title>
-    <sub-title lang="en">Studio Guy</sub-title>
-    <category lang="en">Ghost Planet</category>
-    <episode-num system="onscreen">27</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ILKvVhz.gif"/>
-  </programme>
-  <programme start="20261117080059 +0000" stop="20261117082327 +0000" channel="toonami-west">
-    <title lang="en">Cyborg 009</title>
-    <sub-title lang="en">Artemis (Mythos Arc)</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">24</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/pPqyK8x.gif"/>
-  </programme>
-  <programme start="20261117082327 +0000" stop="20261117084807 +0000" channel="toonami-west">
-    <title lang="en">Yu Yu Hakusho: Ghost Files</title>
-    <sub-title lang="en">Every Demon For Himself</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">104</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif"/>
-  </programme>
-  <programme start="20261117084807 +0000" stop="20261117091225 +0000" channel="toonami-west">
-    <title lang="en">Tenchi Universe</title>
-    <sub-title lang="en">No Need for a Rebellion!</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">14</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/lZ8iahD.gif"/>
-  </programme>
-  <programme start="20261117091225 +0000" stop="20261117093522 +0000" channel="toonami-west">
-    <title lang="en">Lupin the 3rd</title>
-    <sub-title lang="en">Happy Betrayals to You</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">38</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif"/>
-  </programme>
-  <programme start="20261117093522 +0000" stop="20261117102708 +0000" channel="toonami-west">
-    <title lang="en">Ranma 1/2</title>
-    <sub-title lang="en">Ranma Gains Yet Another Suitor</sub-title>
-    <category lang="en">Midnight Run</category>
-    <episode-num system="onscreen">41</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif"/>
-  </programme>
-  <programme start="20261117102708 +0000" stop="20261117104212 +0000" channel="toonami-west">
-    <title lang="en">12 oz Mouse</title>
-    <sub-title lang="en">Enjoy the Arm</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">12</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VxDpdPC.gif"/>
-  </programme>
-  <programme start="20261117104212 +0000" stop="20261117110702 +0000" channel="toonami-west">
-    <title lang="en">Pokemon Origins</title>
-    <sub-title lang="en">Giovanni</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">3</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/3jszYQJ.gif"/>
-  </programme>
-  <programme start="20261117110702 +0000" stop="20261117113458 +0000" channel="toonami-west">
+  <programme start="20261119080920 +0000" stop="20261119083458 +0000" channel="toonami-east">
     <title lang="en">Shin Chan</title>
-    <sub-title lang="en">Sticky's My Favorite Flavor</sub-title>
+    <sub-title lang="en">OK, But I'm a Power Bottom</sub-title>
     <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">16</episode-num>
+    <episode-num system="onscreen">17</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/XWL4wlj.gif"/>
   </programme>
-  <programme start="20261117113458 +0000" stop="20261117120000 +0000" channel="toonami-west">
+  <programme start="20261119083458 +0000" stop="20261119090000 +0000" channel="toonami-east">
     <title lang="en">Nadia: The Secret of Blue Water</title>
-    <sub-title lang="en">Nadia's Love...?</sub-title>
+    <sub-title lang="en">My Darling Nadia</sub-title>
     <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">32</episode-num>
+    <episode-num system="onscreen">34</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif"/>
   </programme>
-  <programme start="20261117120000 +0000" stop="20261117122957 +0000" channel="toonami-west">
+  <programme start="20261119090000 +0000" stop="20261119092950 +0000" channel="toonami-east">
     <title lang="en">Pokemon</title>
-    <sub-title lang="en">Princess vs. Princess</sub-title>
+    <sub-title lang="en">The Case of the K-9 Capers!</sub-title>
     <category lang="en">Classic Toon</category>
-    <episode-num system="onscreen">50</episode-num>
+    <episode-num system="onscreen">52</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif"/>
   </programme>
-  <programme start="20261117122957 +0000" stop="20261117130130 +0000" channel="toonami-west">
+  <programme start="20261119092950 +0000" stop="20261119100130 +0000" channel="toonami-east">
     <title lang="en">Teen Titans</title>
-    <sub-title lang="en">Fractured</sub-title>
+    <sub-title lang="en">Aftershock (Part 1)</sub-title>
     <category lang="en">Classic Toon</category>
-    <episode-num system="onscreen">24</episode-num>
+    <episode-num system="onscreen">25</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/Csz1Dr1.gif"/>
   </programme>
-  <programme start="20261117130130 +0000" stop="20261117132524 +0000" channel="toonami-west">
+  <programme start="20261119100130 +0000" stop="20261119102518 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Strange Visitor</sub-title>
+    <sub-title lang="en">Tao Attacks!</sub-title>
     <category lang="en">Toonami</category>
-    <episode-num system="onscreen">56</episode-num>
+    <episode-num system="onscreen">60</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
   </programme>
-  <programme start="20261117132524 +0000" stop="20261117134948 +0000" channel="toonami-west">
+  <programme start="20261119102518 +0000" stop="20261119104940 +0000" channel="toonami-east">
     <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Mirror of Dreams! Amazon's Final Stage</sub-title>
+    <sub-title lang="en">A Dentist of Terror? PallaPalla's House</sub-title>
     <category lang="en">Toonami</category>
-    <episode-num system="onscreen">142</episode-num>
+    <episode-num system="onscreen">146</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
   </programme>
-  <programme start="20261117134948 +0000" stop="20261117141254 +0000" channel="toonami-west">
+  <programme start="20261119104940 +0000" stop="20261119111247 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">The Fight is Over</sub-title>
+    <sub-title lang="en">A Hero's Farewell</sub-title>
     <category lang="en">Toonami</category>
-    <episode-num system="onscreen">166</episode-num>
+    <episode-num system="onscreen">174</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
-  <programme start="20261117141254 +0000" stop="20261117150020 +0000" channel="toonami-west">
+  <programme start="20261119111247 +0000" stop="20261119113600 +0000" channel="toonami-east">
     <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Faith in a Boy</sub-title>
+    <sub-title lang="en">Cell Returns!</sub-title>
     <category lang="en">Toonami</category>
-    <episode-num system="onscreen">167</episode-num>
+    <episode-num system="onscreen">175</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
-  <programme start="20261117150020 +0000" stop="20261117160736 +0000" channel="toonami-west">
-    <title lang="en">The Land Before Time</title>
-    <category lang="en">Special: Cartoon Theater</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/QRieOY1.gif"/>
+  <programme start="20261119113600 +0000" stop="20261119120029 +0000" channel="toonami-east">
+    <title lang="en">Mobile Fighter G Gundam</title>
+    <sub-title lang="en">Challenge! Mysterious Masked Fighter</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">17</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/WCckIMt.gif"/>
   </programme>
-  <programme start="20261117160736 +0000" stop="20261117163104 +0000" channel="toonami-west">
+  <programme start="20261119120029 +0000" stop="20261119121708 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">The Return of Radditz... Wait/And They All Lived Happily Ever... Oh...</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">1</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119121708 +0000" stop="20261119122451 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">Happily Ever Afterlife</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">2</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119122451 +0000" stop="20261119123325 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">Snakeway to Heaven</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">3</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119123325 +0000" stop="20261119124246 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">Vegeta: Kills Bugs Dead</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">4</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119124246 +0000" stop="20261119125141 +0000" channel="toonami-east">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">No One Ever Listens To The Magical Dragon</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119125141 +0000" stop="20261119131435 +0000" channel="toonami-east">
     <title lang="en">The Powerpuff Girls</title>
-    <sub-title lang="en">Birthday Bash / Too Pooped to Puff</sub-title>
+    <sub-title lang="en">Dream Scheme / You Snooze, You Lose</sub-title>
     <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">16</episode-num>
+    <episode-num system="onscreen">17</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/8ULe6pE.gif"/>
   </programme>
-  <programme start="20261117163104 +0000" stop="20261117164216 +0000" channel="toonami-west">
+  <programme start="20261119131435 +0000" stop="20261119132527 +0000" channel="toonami-east">
     <title lang="en">Ed Edd n' Eddy</title>
-    <sub-title lang="en">Dear Ed</sub-title>
+    <sub-title lang="en">One + One = Ed</sub-title>
     <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">28</episode-num>
+    <episode-num system="onscreen">30</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"/>
   </programme>
-  <programme start="20261117164216 +0000" stop="20261117165025 +0000" channel="toonami-west">
-    <title lang="en">Dexter's Laboratory</title>
-    <sub-title lang="en">Dee Dee's Rival</sub-title>
+  <programme start="20261119132527 +0000" stop="20261119162331 +0000" channel="toonami-east">
+    <title lang="en">I Am Weasel</title>
+    <sub-title lang="en">I Are Terraformer!</sub-title>
     <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">130</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/hMP6ON2.gif"/>
+    <episode-num system="onscreen">53</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif"/>
   </programme>
-  <programme start="20261117165025 +0000" stop="20261117170130 +0000" channel="toonami-west">
-    <title lang="en">2 Stupid Dogs</title>
-    <sub-title lang="en">Cookies, Ookies, Blookies</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">46</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/wQWDVZi.gif"/>
+  <programme start="20261119162331 +0000" stop="20261119164754 +0000" channel="toonami-east">
+    <title lang="en">Mission Hill</title>
+    <sub-title lang="en">Pilot (or The Douchebag Aspect)</sub-title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">1</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/CWnsKHV.gif"/>
   </programme>
-  <programme start="20261117170130 +0000" stop="20261117172523 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Arale vs. Blue</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">57</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
+  <programme start="20261119164754 +0000" stop="20261119170030 +0000" channel="toonami-east">
+    <title lang="en">Harvey Birdman, Attorney at Law</title>
+    <sub-title lang="en">Very Personal Injury</sub-title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">2</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Ong5s2M.gif"/>
   </programme>
-  <programme start="20261117172523 +0000" stop="20261117174945 +0000" channel="toonami-west">
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Amazones! The Nightmare From Behind the Mirror</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">143</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
+  <programme start="20261119170030 +0000" stop="20261119172120 +0000" channel="toonami-east">
+    <title lang="en">X-Men</title>
+    <sub-title lang="en">Deadly Reunions</sub-title>
+    <category lang="en">Marvel vs Capcom</category>
+    <episode-num system="onscreen">4</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/ZSZ0x1m.gif"/>
+  </programme>
+  <programme start="20261119172120 +0000" stop="20261119174701 +0000" channel="toonami-east">
+    <title lang="en">Mega Man</title>
+    <sub-title lang="en">The Beginning</sub-title>
+    <category lang="en">Marvel vs Capcom</category>
+    <episode-num system="onscreen">1</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/vhvmTlP.gif"/>
+  </programme>
+  <programme start="20261119174701 +0000" stop="20261119180908 +0000" channel="toonami-east">
+    <title lang="en">Men in Black: The Series</title>
+    <sub-title lang="en">The Jack O'Lantern Syndrome</sub-title>
+    <category lang="en">Marvel vs Capcom</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/M2q5NRC.gif"/>
+  </programme>
+  <programme start="20261119180908 +0000" stop="20261119183336 +0000" channel="toonami-east">
+    <title lang="en">Street Fighter II: V</title>
+    <sub-title lang="en">Landing in Hong Kong</sub-title>
+    <category lang="en">Marvel vs Capcom</category>
+    <episode-num system="onscreen">3</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif"/>
+  </programme>
+  <programme start="20261119183336 +0000" stop="20261119185530 +0000" channel="toonami-east">
+    <title lang="en">Spider-Man</title>
+    <sub-title lang="en">Tablet of Time</sub-title>
+    <category lang="en">Marvel vs Capcom</category>
+    <episode-num system="onscreen">24</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif"/>
+  </programme>
+  <programme start="20261119185530 +0000" stop="20261119191841 +0000" channel="toonami-east">
+    <title lang="en">Silverhawks</title>
+    <sub-title lang="en">Stop Timestopper</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/dpR9jOG.gif"/>
+  </programme>
+  <programme start="20261119191841 +0000" stop="20261119194403 +0000" channel="toonami-east">
+    <title lang="en">Saint Seiya</title>
+    <sub-title lang="en">Revive Swan! Life, Death, and Love</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">59</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif"/>
+  </programme>
+  <programme start="20261119194403 +0000" stop="20261119201403 +0000" channel="toonami-east">
+    <title lang="en">Mobile Suit Zeta Gundam</title>
+    <sub-title lang="en">Colony Drop</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">25</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Tqe7v2I.gif"/>
   </programme>
   <programme start="20261117174945 +0000" stop="20261117181300 +0000" channel="toonami-west">
     <title lang="en">Dragon Ball Z</title>
@@ -982,12 +813,25 @@
     <episode-num system="onscreen">169</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
-  <programme start="20261117183622 +0000" stop="20261117193803 +0000" channel="toonami-west">
+  <programme start="20261117183622 +0000" stop="20261117190030 +0000" channel="toonami-west">
     <title lang="en">Gundam Wing</title>
     <sub-title lang="en">Portrait of a Ruined Country</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">9</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
+  </programme>
+  <programme start="20261117190030 +0000" stop="20261117191449 +0000" channel="toonami-west">
+    <title lang="en">Space Ghost Coast to Coast</title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">30</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
+  </programme>
+  <programme start="20261117191449 +0000" stop="20261117193803 +0000" channel="toonami-west">
+    <title lang="en">Home Movies</title>
+    <sub-title lang="en">Temporary Blindness</sub-title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">51</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"/>
   </programme>
   <programme start="20261117193803 +0000" stop="20261117200030 +0000" channel="toonami-west">
     <title lang="en">Dr. Katz</title>
@@ -1017,19 +861,12 @@
     <episode-num system="onscreen">17</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/M2q5NRC.gif"/>
   </programme>
-  <programme start="20261117210914 +0000" stop="20261117213358 +0000" channel="toonami-west">
+  <programme start="20261117210914 +0000" stop="20261117215530 +0000" channel="toonami-west">
     <title lang="en">Street Fighter II: V</title>
     <sub-title lang="en">The Beginning of a Journey</sub-title>
     <category lang="en">Marvel vs Capcom</category>
     <episode-num system="onscreen">1</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif"/>
-  </programme>
-  <programme start="20261117213358 +0000" stop="20261117215530 +0000" channel="toonami-west">
-    <title lang="en">Spider-Man</title>
-    <sub-title lang="en">Blade, the Vampire Hunter</sub-title>
-    <category lang="en">Marvel vs Capcom</category>
-    <episode-num system="onscreen">22</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif"/>
   </programme>
   <programme start="20261117215530 +0000" stop="20261117221904 +0000" channel="toonami-west">
     <title lang="en">Silverhawks</title>
@@ -1052,12 +889,19 @@
     <episode-num system="onscreen">23</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/Tqe7v2I.gif"/>
   </programme>
-  <programme start="20261117231030 +0000" stop="20261118000000 +0000" channel="toonami-west">
+  <programme start="20261117231030 +0000" stop="20261117233446 +0000" channel="toonami-west">
     <title lang="en">Robotech</title>
     <sub-title lang="en">Dark Finale</sub-title>
     <category lang="en">Toonami O.G.</category>
     <episode-num system="onscreen">84</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/d2iQJ5T.gif"/>
+  </programme>
+  <programme start="20261117233446 +0000" stop="20261118000000 +0000" channel="toonami-west">
+    <title lang="en">Beast Wars</title>
+    <sub-title lang="en">The Spark</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/1fov0VP.gif"/>
   </programme>
   <programme start="20261118000000 +0000" stop="20261118002952 +0000" channel="toonami-west">
     <title lang="en">Pokemon</title>
@@ -1157,33 +1001,12 @@
     <episode-num system="onscreen">35</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/0QYl7ZQ.gif"/>
   </programme>
-  <programme start="20261118050130 +0000" stop="20261118052523 +0000" channel="toonami-west">
+  <programme start="20261118050130 +0000" stop="20261118063622 +0000" channel="toonami-west">
     <title lang="en">Dragon Ball</title>
     <sub-title lang="en">The Notorious Mercenary</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">59</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
-  </programme>
-  <programme start="20261118052523 +0000" stop="20261118054946 +0000" channel="toonami-west">
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Burning Passion! Mars' Furious Deadly Attack</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">145</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
-  </programme>
-  <programme start="20261118054946 +0000" stop="20261118061259 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">The Unstoppable Gohan</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">172</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261118061259 +0000" stop="20261118063622 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Cell's Mighty Breakdown</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">173</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
   </programme>
   <programme start="20261118063622 +0000" stop="20261118070543 +0000" channel="toonami-west">
     <title lang="en">Gundam Wing</title>
@@ -1192,11 +1015,39 @@
     <episode-num system="onscreen">10</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
   </programme>
-  <programme start="20261118070543 +0000" stop="20261118091336 +0000" channel="toonami-west">
+  <programme start="20261118070543 +0000" stop="20261118073131 +0000" channel="toonami-west">
     <title lang="en">Space Ghost Coast to Coast</title>
     <category lang="en">Ghost Planet</category>
     <episode-num system="onscreen">31</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
+  </programme>
+  <programme start="20261118073131 +0000" stop="20261118080059 +0000" channel="toonami-west">
+    <title lang="en">Home Movies</title>
+    <sub-title lang="en">Focus Grill (Finale)</sub-title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">52</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"/>
+  </programme>
+  <programme start="20261118080059 +0000" stop="20261118082424 +0000" channel="toonami-west">
+    <title lang="en">Cyborg 009</title>
+    <sub-title lang="en">Mythos, The Final Chapter (Mythos Arc)</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">25</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/pPqyK8x.gif"/>
+  </programme>
+  <programme start="20261118082424 +0000" stop="20261118084902 +0000" channel="toonami-west">
+    <title lang="en">Yu Yu Hakusho: Ghost Files</title>
+    <sub-title lang="en">The Preliminaries</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">105</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif"/>
+  </programme>
+  <programme start="20261118084902 +0000" stop="20261118091336 +0000" channel="toonami-west">
+    <title lang="en">Tenchi Universe</title>
+    <sub-title lang="en">No Need for an Escape!</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">15</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/lZ8iahD.gif"/>
   </programme>
   <programme start="20261118091336 +0000" stop="20261118093647 +0000" channel="toonami-west">
     <title lang="en">Lupin the 3rd</title>
@@ -1219,40 +1070,12 @@
     <episode-num system="onscreen">18</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/ilYReUx.gif"/>
   </programme>
-  <programme start="20261118102914 +0000" stop="20261118104627 +0000" channel="toonami-west">
+  <programme start="20261118102914 +0000" stop="20261118122952 +0000" channel="toonami-west">
     <title lang="en">Sealab 2021</title>
     <sub-title lang="en">I, Robot</sub-title>
     <category lang="en">All Kids Outta The Pool</category>
     <episode-num system="onscreen">1</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/AnkyrnS.gif"/>
-  </programme>
-  <programme start="20261118104627 +0000" stop="20261118111722 +0000" channel="toonami-west">
-    <title lang="en">Pokemon Origins</title>
-    <sub-title lang="en">Charizard (Finale)</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">4</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/3jszYQJ.gif"/>
-  </programme>
-  <programme start="20261118111722 +0000" stop="20261118113458 +0000" channel="toonami-west">
-    <title lang="en">Cromartie High School</title>
-    <sub-title lang="en">Let Me Tell You My Name</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">17</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4BYylmk.gif"/>
-  </programme>
-  <programme start="20261118113458 +0000" stop="20261118120000 +0000" channel="toonami-west">
-    <title lang="en">Nadia: The Secret of Blue Water</title>
-    <sub-title lang="en">King's Rescue</sub-title>
-    <category lang="en">All Kids Outta The Pool</category>
-    <episode-num system="onscreen">33</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif"/>
-  </programme>
-  <programme start="20261118120000 +0000" stop="20261118122952 +0000" channel="toonami-west">
-    <title lang="en">Pokemon</title>
-    <sub-title lang="en">The Purr-fect Hero</sub-title>
-    <category lang="en">Classic Toon</category>
-    <episode-num system="onscreen">51</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif"/>
   </programme>
   <programme start="20261118122952 +0000" stop="20261118130130 +0000" channel="toonami-west">
     <title lang="en">Batman: The Animated Series</title>
@@ -1261,12 +1084,40 @@
     <episode-num system="onscreen">41</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/nygJi6C.gif"/>
   </programme>
-  <programme start="20261118130130 +0000" stop="20261118150029 +0000" channel="toonami-west">
+  <programme start="20261118130130 +0000" stop="20261118132523 +0000" channel="toonami-west">
     <title lang="en">Dragon Ball</title>
     <sub-title lang="en">The Land of Korin</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">58</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20261118132523 +0000" stop="20261118134949 +0000" channel="toonami-west">
+    <title lang="en">Sailor Moon</title>
+    <sub-title lang="en">True Power Explodes! Ami's Song of the Heart</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">144</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20261118134949 +0000" stop="20261118141233 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">Cell Juniors Attack!</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">170</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261118141233 +0000" stop="20261118143601 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">The Unleashing</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">171</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261118143601 +0000" stop="20261118150029 +0000" channel="toonami-west">
+    <title lang="en">Mobile Fighter G Gundam</title>
+    <sub-title lang="en">Ultimate Power and Evil! Rise of the Dark Gundam</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">16</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/WCckIMt.gif"/>
   </programme>
   <programme start="20261118150029 +0000" stop="20261118153023 +0000" channel="toonami-west">
     <title lang="en">Samurai Jack</title>
@@ -1289,54 +1140,39 @@
     <episode-num system="onscreen">12</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/KD0PG3P.gif"/>
   </programme>
-  <programme start="20261118162355 +0000" stop="20261118163522 +0000" channel="toonami-west">
+  <programme start="20261118162355 +0000" stop="20261118174946 +0000" channel="toonami-west">
     <title lang="en">Ed Edd n' Eddy</title>
     <sub-title lang="en">Knock Knock, Who's Ed</sub-title>
     <category lang="en">Cartoon Cartoon</category>
     <episode-num system="onscreen">29</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"/>
   </programme>
-  <programme start="20261118163522 +0000" stop="20261118164251 +0000" channel="toonami-west">
-    <title lang="en">Johnny Bravo</title>
-    <sub-title lang="en">Bootman</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">139</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/duW3ILx.gif"/>
-  </programme>
-  <programme start="20261118164251 +0000" stop="20261118165041 +0000" channel="toonami-west">
-    <title lang="en">What A Cartoon! Show</title>
-    <sub-title lang="en">Hard Luck Duck</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">5</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/Vfe6dDZ.gif"/>
-  </programme>
-  <programme start="20261118165041 +0000" stop="20261118170130 +0000" channel="toonami-west">
-    <title lang="en">Cow and Chicken</title>
-    <sub-title lang="en">Dirty Laundry</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">35</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/0QYl7ZQ.gif"/>
-  </programme>
-  <programme start="20261118170130 +0000" stop="20261118172523 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">The Notorious Mercenary</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">59</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
-  </programme>
-  <programme start="20261118172523 +0000" stop="20261118174946 +0000" channel="toonami-west">
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Burning Passion! Mars' Furious Deadly Attack</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">145</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
-  </programme>
-  <programme start="20261118174946 +0000" stop="20261118193131 +0000" channel="toonami-west">
+  <programme start="20261118174946 +0000" stop="20261118181259 +0000" channel="toonami-west">
     <title lang="en">Dragon Ball Z</title>
     <sub-title lang="en">The Unstoppable Gohan</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">172</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261118181259 +0000" stop="20261118183622 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">Cell's Mighty Breakdown</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">173</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261118183622 +0000" stop="20261118190543 +0000" channel="toonami-west">
+    <title lang="en">Gundam Wing</title>
+    <sub-title lang="en">Heero, Distracted by Defeat</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">10</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
+  </programme>
+  <programme start="20261118190543 +0000" stop="20261118193131 +0000" channel="toonami-west">
+    <title lang="en">Space Ghost Coast to Coast</title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">31</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
   </programme>
   <programme start="20261118193131 +0000" stop="20261118200030 +0000" channel="toonami-west">
     <title lang="en">Home Movies</title>
@@ -1401,12 +1237,19 @@
     <episode-num system="onscreen">24</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/Tqe7v2I.gif"/>
   </programme>
-  <programme start="20261118230942 +0000" stop="20261119000000 +0000" channel="toonami-west">
+  <programme start="20261118230942 +0000" stop="20261118233407 +0000" channel="toonami-west">
     <title lang="en">Robotech</title>
     <sub-title lang="en">Symphony Of Light</sub-title>
     <category lang="en">Toonami O.G.</category>
     <episode-num system="onscreen">85</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/d2iQJ5T.gif"/>
+  </programme>
+  <programme start="20261118233407 +0000" stop="20261119000000 +0000" channel="toonami-west">
+    <title lang="en">Beast Wars</title>
+    <sub-title lang="en">The Trigger (Part 1)</sub-title>
+    <category lang="en">Toonami O.G.</category>
+    <episode-num system="onscreen">14</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/1fov0VP.gif"/>
   </programme>
   <programme start="20261119000000 +0000" stop="20261119002950 +0000" channel="toonami-west">
     <title lang="en">Pokemon</title>
@@ -1471,219 +1314,256 @@
     <episode-num system="onscreen">2</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
   </programme>
-  <programme start="20261119032451 +0000" stop="20261119042527 +0000" channel="toonami-west">
+  <programme start="20261119032451 +0000" stop="20261119033325 +0000" channel="toonami-west">
     <title lang="en">Dragon Ball Z: Abridged</title>
     <sub-title lang="en">Snakeway to Heaven</sub-title>
     <category lang="en">Special: DBZ Abridged</category>
     <episode-num system="onscreen">3</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
   </programme>
-  <programme start="20261119042527 +0000" stop="20261119043201 +0000" channel="toonami-west">
+  <programme start="20261119033325 +0000" stop="20261119034246 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">Vegeta: Kills Bugs Dead</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">4</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119034246 +0000" stop="20261119035141 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">No One Ever Listens To The Magical Dragon</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119035141 +0000" stop="20261119041435 +0000" channel="toonami-west">
+    <title lang="en">The Powerpuff Girls</title>
+    <sub-title lang="en">Dream Scheme / You Snooze, You Lose</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">17</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/8ULe6pE.gif"/>
+  </programme>
+  <programme start="20261119041435 +0000" stop="20261119042527 +0000" channel="toonami-west">
+    <title lang="en">Ed Edd n' Eddy</title>
+    <sub-title lang="en">One + One = Ed</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">30</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"/>
+  </programme>
+  <programme start="20261119042527 +0000" stop="20261119063622 +0000" channel="toonami-west">
     <title lang="en">I Am Weasel</title>
     <sub-title lang="en">I Are Terraformer!</sub-title>
     <category lang="en">Cartoon Cartoon</category>
     <episode-num system="onscreen">53</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif"/>
   </programme>
-  <programme start="20261119043201 +0000" stop="20261119043854 +0000" channel="toonami-west">
-    <title lang="en">Dexter's Laboratory</title>
-    <sub-title lang="en">Slightly Psycho</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">131</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/hMP6ON2.gif"/>
-  </programme>
-  <programme start="20261119043854 +0000" stop="20261119044600 +0000" channel="toonami-west">
-    <title lang="en">2 Stupid Dogs</title>
-    <sub-title lang="en">Family Values</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">47</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/wQWDVZi.gif"/>
-  </programme>
-  <programme start="20261119044600 +0000" stop="20261119045234 +0000" channel="toonami-west">
-    <title lang="en">Johnny Bravo</title>
-    <sub-title lang="en">Freudian Dip</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">140</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/duW3ILx.gif"/>
-  </programme>
-  <programme start="20261119045234 +0000" stop="20261119050130 +0000" channel="toonami-west">
-    <title lang="en">What A Cartoon! Show</title>
-    <sub-title lang="en">Sledgehammer O' Possum in Out And About</sub-title>
-    <category lang="en">Cartoon Cartoon</category>
-    <episode-num system="onscreen">6</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/Vfe6dDZ.gif"/>
-  </programme>
-  <programme start="20261119050130 +0000" stop="20261119052530 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Korin Tower</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">61</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
-  </programme>
-  <programme start="20261119052530 +0000" stop="20261119054952 +0000" channel="toonami-west">
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Confrontation in Dreams! Minako and Makoto's Broken Friendship</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">147</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
-  </programme>
-  <programme start="20261119054952 +0000" stop="20261119061251 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">The Horror Won't End</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">176</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261119061251 +0000" stop="20261119063622 +0000" channel="toonami-west">
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Save the World</sub-title>
-    <category lang="en">Toonami</category>
-    <episode-num system="onscreen">177</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
-  </programme>
-  <programme start="20261119063622 +0000" stop="20261119070622 +0000" channel="toonami-west">
+  <programme start="20261119063622 +0000" stop="20261119070132 +0000" channel="toonami-west">
     <title lang="en">Gundam Wing</title>
     <sub-title lang="en">The Whereabouts of Happiness</sub-title>
     <category lang="en">Toonami</category>
     <episode-num system="onscreen">11</episode-num>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
   </programme>
-  <programme start="20261117060000 +0000" stop="20261117062945 +0000" channel="snick-east">
-    <title lang="en">The Lucy Show</title>
-    <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">124</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYmYzYzhmYjMtMTI3Mi00MjU4LTkwMDctODNiYjU1ZGQ1ZmZjXkEyXkFqcGdeQXVyNzkyMDY4NTA@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  <programme start="20261119070132 +0000" stop="20261119072331 +0000" channel="toonami-west">
+    <title lang="en">Space Ghost Coast to Coast</title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">32</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"/>
   </programme>
-  <programme start="20261117062945 +0000" stop="20261117070000 +0000" channel="snick-east">
-    <title lang="en">Green Acres</title>
-    <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">20</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMTQ1ODg3N15BMl5BanBnXkFtZTcwMTQ2NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  <programme start="20261119072331 +0000" stop="20261119074754 +0000" channel="toonami-west">
+    <title lang="en">Mission Hill</title>
+    <sub-title lang="en">Pilot (or The Douchebag Aspect)</sub-title>
+    <category lang="en">Ghost Planet</category>
+    <episode-num system="onscreen">1</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/CWnsKHV.gif"/>
   </programme>
-  <programme start="20261117070000 +0000" stop="20261117072952 +0000" channel="snick-east">
-    <title lang="en">The Patty Duke Show</title>
-    <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">72</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg1MDQ3MzQ3NF5BMl5BanBnXkFtZTcwNjc5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117072952 +0000" stop="20261117080000 +0000" channel="snick-east">
-    <title lang="en">The Many Loves of Dobie Gillis</title>
-    <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">40</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTExNTg5MDM3OTdeQTJeQWpwZ15BbWU2MDA4ODkzNg@@._V1_UY1200_CR103,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117080000 +0000" stop="20261117083002 +0000" channel="snick-east">
-    <title lang="en">My Three Sons</title>
-    <category lang="en">Nick at Nite 2</category>
-    <episode-num system="onscreen">19</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTMyMjUwMTA1NF5BMl5BanBnXkFtZTcwNjc1MDg5MQ@@._V1._CR13,0,329,401_UY1200_CR177,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117083002 +0000" stop="20261117090000 +0000" channel="snick-east">
-    <title lang="en">Mister Ed</title>
-    <category lang="en">Nick at Nite 2</category>
-    <episode-num system="onscreen">31</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTg0NzAzMjY4OV5BMl5BanBnXkFtZTcwNjQ5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117090000 +0000" stop="20261117092931 +0000" channel="snick-east">
-    <title lang="en">Alfred Hitchcock Presents</title>
-    <category lang="en">Nick at Nite 3</category>
-    <episode-num system="onscreen">144</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWQ1OGI0ZTItOTNkYi00NWFhLWE3ZWYtODVmMjkzMmM1NDYwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR106,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117092931 +0000" stop="20261117100000 +0000" channel="snick-east">
-    <title lang="en">The Adventures of Superman</title>
-    <category lang="en">Nick at Nite 3</category>
-    <episode-num system="onscreen">72</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmYwMzY4OWMtZmYxMC00M2VmLWFlZDgtMWEyY2IzNDdjNWRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR135,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117100000 +0000" stop="20261117102945 +0000" channel="snick-east">
-    <title lang="en">The Lucy Show</title>
-    <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">124</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYmYzYzhmYjMtMTI3Mi00MjU4LTkwMDctODNiYjU1ZGQ1ZmZjXkEyXkFqcGdeQXVyNzkyMDY4NTA@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117102945 +0000" stop="20261117110000 +0000" channel="snick-east">
-    <title lang="en">Green Acres</title>
-    <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">20</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMTQ1ODg3N15BMl5BanBnXkFtZTcwMTQ2NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117110000 +0000" stop="20261117112952 +0000" channel="snick-east">
-    <title lang="en">The Patty Duke Show</title>
-    <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">72</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg1MDQ3MzQ3NF5BMl5BanBnXkFtZTcwNjc5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117112952 +0000" stop="20261117120000 +0000" channel="snick-east">
-    <title lang="en">The Many Loves of Dobie Gillis</title>
-    <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">40</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTExNTg5MDM3OTdeQTJeQWpwZ15BbWU2MDA4ODkzNg@@._V1_UY1200_CR103,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261117123217 +0000" channel="snick-east">
-    <title lang="en">Land of the Lost 1991</title>
-    <category lang="en">Nickelodeon 1</category>
-    <episode-num system="onscreen">15</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk2NDE2MDkxNF5BMl5BanBnXkFtZTYwNDAwOTk5._V1_UY1200_CR52,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117123217 +0000" stop="20261117130626 +0000" channel="snick-east">
-    <title lang="en">You Can't Do That on Television</title>
-    <category lang="en">Nickelodeon 1</category>
-    <episode-num system="onscreen">22</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWFhYTk0NTItODE3YS00YWI3LWE5YzgtMTgxYmMyZGI5Yzk1XkEyXkFqcGdeQXVyNzU1Mjc4OTI@._V1_UY1200_CR585,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117130626 +0000" stop="20261117140000 +0000" channel="snick-east">
-    <title lang="en">Flipper The New Adventures</title>
-    <category lang="en">Nickelodeon 1</category>
-    <episode-num system="onscreen">21</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTUzNTA4NTA4OF5BMl5BanBnXkFtZTcwNDQ1Mjg4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117140000 +0000" stop="20261117143119 +0000" channel="snick-east">
-    <title lang="en">Noozles</title>
-    <category lang="en">Nick Jr 1</category>
-    <episode-num system="onscreen">10</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjEyNjgwNzg3MV5BMl5BanBnXkFtZTcwNDcwOTMyMQ@@._V1_UY1200_CR8,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117143119 +0000" stop="20261117145702 +0000" channel="snick-east">
-    <title lang="en">Grimms Fairy Tale Classics</title>
-    <category lang="en">Nick Jr 1</category>
+  <programme start="20261119074754 +0000" stop="20261119080059 +0000" channel="toonami-west">
+    <title lang="en">Harvey Birdman, Attorney at Law</title>
+    <sub-title lang="en">Very Personal Injury</sub-title>
+    <category lang="en">Ghost Planet</category>
     <episode-num system="onscreen">2</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/a53RFDM.jpg"/>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Ong5s2M.gif"/>
   </programme>
-  <programme start="20261117145702 +0000" stop="20261117153138 +0000" channel="snick-east">
-    <title lang="en">Busy World of Richard Scarry</title>
-    <category lang="en">Nick Jr 1</category>
-    <episode-num system="onscreen">29</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTY4NTg4NzkzMF5BMl5BanBnXkFtZTgwNjE4MzIxMjE@._V1_UY1200_CR239,0,630,1200_AL_.jpg"/>
+  <programme start="20261119080059 +0000" stop="20261119082340 +0000" channel="toonami-west">
+    <title lang="en">Cyborg 009</title>
+    <sub-title lang="en">Gilmore's Notes (Recap)</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">26</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/pPqyK8x.gif"/>
   </programme>
-  <programme start="20261117153138 +0000" stop="20261117160000 +0000" channel="snick-east">
-    <title lang="en">Muppet Babies</title>
-    <category lang="en">Nick Jr 1</category>
+  <programme start="20261119082340 +0000" stop="20261119084837 +0000" channel="toonami-west">
+    <title lang="en">Yu Yu Hakusho: Ghost Files</title>
+    <sub-title lang="en">The Battle of Father and Son</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">106</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif"/>
+  </programme>
+  <programme start="20261119084837 +0000" stop="20261119091318 +0000" channel="toonami-west">
+    <title lang="en">Tenchi Universe</title>
+    <sub-title lang="en">No Need for Hiding!</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">16</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/lZ8iahD.gif"/>
+  </programme>
+  <programme start="20261119091318 +0000" stop="20261119093647 +0000" channel="toonami-west">
+    <title lang="en">Lupin the 3rd</title>
+    <sub-title lang="en">Payload</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">40</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif"/>
+  </programme>
+  <programme start="20261119093647 +0000" stop="20261119100000 +0000" channel="toonami-west">
+    <title lang="en">Ranma 1/2</title>
+    <sub-title lang="en">Sneeze Me, Squeeze Me, Please Me! Shampoo's Recipe For Disaster</sub-title>
+    <category lang="en">Midnight Run</category>
+    <episode-num system="onscreen">43</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif"/>
+  </programme>
+  <programme start="20261119100000 +0000" stop="20261119110920 +0000" channel="toonami-west">
+    <title lang="en">Berserk</title>
+    <sub-title lang="en">Separation</sub-title>
+    <category lang="en">All Kids Outta The Pool</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/ilYReUx.gif"/>
+  </programme>
+  <programme start="20261119110920 +0000" stop="20261119113458 +0000" channel="toonami-west">
+    <title lang="en">Shin Chan</title>
+    <sub-title lang="en">OK, But I'm a Power Bottom</sub-title>
+    <category lang="en">All Kids Outta The Pool</category>
+    <episode-num system="onscreen">17</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWL4wlj.gif"/>
+  </programme>
+  <programme start="20261119113458 +0000" stop="20261119120000 +0000" channel="toonami-west">
+    <title lang="en">Nadia: The Secret of Blue Water</title>
+    <sub-title lang="en">My Darling Nadia</sub-title>
+    <category lang="en">All Kids Outta The Pool</category>
+    <episode-num system="onscreen">34</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif"/>
+  </programme>
+  <programme start="20261119120000 +0000" stop="20261119122950 +0000" channel="toonami-west">
+    <title lang="en">Pokemon</title>
+    <sub-title lang="en">The Case of the K-9 Capers!</sub-title>
+    <category lang="en">Classic Toon</category>
+    <episode-num system="onscreen">52</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif"/>
+  </programme>
+  <programme start="20261119122950 +0000" stop="20261119130130 +0000" channel="toonami-west">
+    <title lang="en">Teen Titans</title>
+    <sub-title lang="en">Aftershock (Part 1)</sub-title>
+    <category lang="en">Classic Toon</category>
+    <episode-num system="onscreen">25</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Csz1Dr1.gif"/>
+  </programme>
+  <programme start="20261119130130 +0000" stop="20261119132518 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball</title>
+    <sub-title lang="en">Tao Attacks!</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">60</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20261119132518 +0000" stop="20261119134940 +0000" channel="toonami-west">
+    <title lang="en">Sailor Moon</title>
+    <sub-title lang="en">A Dentist of Terror? PallaPalla's House</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">146</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20261119134940 +0000" stop="20261119141247 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">A Hero's Farewell</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">174</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261119141247 +0000" stop="20261119143600 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">Cell Returns!</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">175</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261119143600 +0000" stop="20261119150029 +0000" channel="toonami-west">
+    <title lang="en">Mobile Fighter G Gundam</title>
+    <sub-title lang="en">Challenge! Mysterious Masked Fighter</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">17</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/WCckIMt.gif"/>
+  </programme>
+  <programme start="20261119150029 +0000" stop="20261119162527 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z: Abridged</title>
+    <sub-title lang="en">The Return of Radditz... Wait/And They All Lived Happily Ever... Oh...</sub-title>
+    <category lang="en">Special: DBZ Abridged</category>
+    <episode-num system="onscreen">1</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qrtOjE4.gif"/>
+  </programme>
+  <programme start="20261119162527 +0000" stop="20261119163201 +0000" channel="toonami-west">
+    <title lang="en">I Am Weasel</title>
+    <sub-title lang="en">I Are Terraformer!</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">53</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif"/>
+  </programme>
+  <programme start="20261119163201 +0000" stop="20261119163854 +0000" channel="toonami-west">
+    <title lang="en">Dexter's Laboratory</title>
+    <sub-title lang="en">Slightly Psycho</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">131</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/hMP6ON2.gif"/>
+  </programme>
+  <programme start="20261119163854 +0000" stop="20261119164600 +0000" channel="toonami-west">
+    <title lang="en">2 Stupid Dogs</title>
+    <sub-title lang="en">Family Values</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">47</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/wQWDVZi.gif"/>
+  </programme>
+  <programme start="20261119164600 +0000" stop="20261119165234 +0000" channel="toonami-west">
+    <title lang="en">Johnny Bravo</title>
+    <sub-title lang="en">Freudian Dip</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">140</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/duW3ILx.gif"/>
+  </programme>
+  <programme start="20261119165234 +0000" stop="20261119170130 +0000" channel="toonami-west">
+    <title lang="en">What A Cartoon! Show</title>
+    <sub-title lang="en">Sledgehammer O' Possum in Out And About</sub-title>
+    <category lang="en">Cartoon Cartoon</category>
+    <episode-num system="onscreen">6</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/Vfe6dDZ.gif"/>
+  </programme>
+  <programme start="20261119170130 +0000" stop="20261119172530 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball</title>
+    <sub-title lang="en">Korin Tower</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">61</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20261119172530 +0000" stop="20261119174952 +0000" channel="toonami-west">
+    <title lang="en">Sailor Moon</title>
+    <sub-title lang="en">Confrontation in Dreams! Minako and Makoto's Broken Friendship</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">147</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20261119174952 +0000" stop="20261119181251 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">The Horror Won't End</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">176</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261119181251 +0000" stop="20261119183622 +0000" channel="toonami-west">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">Save the World</sub-title>
+    <category lang="en">Toonami</category>
+    <episode-num system="onscreen">177</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"/>
+  </programme>
+  <programme start="20261119183622 +0000" stop="20261119190622 +0000" channel="toonami-west">
+    <title lang="en">Gundam Wing</title>
+    <sub-title lang="en">The Whereabouts of Happiness</sub-title>
+    <category lang="en">Toonami</category>
     <episode-num system="onscreen">11</episode-num>
-  </programme>
-  <programme start="20261117160000 +0000" stop="20261117162906 +0000" channel="snick-east">
-    <title lang="en">Allegras Window</title>
-    <category lang="en">Nick Jr 2</category>
-    <episode-num system="onscreen">11</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5NDM2MzQ1NV5BMl5BanBnXkFtZTcwODM3NTMyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117162906 +0000" stop="20261117165950 +0000" channel="snick-east">
-    <title lang="en">Gullah Gullah Island</title>
-    <category lang="en">Nick Jr 2</category>
-    <episode-num system="onscreen">21</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1Mjc4MDQ1NF5BMl5BanBnXkFtZTcwMTc2MTIyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117165950 +0000" stop="20261117173130 +0000" channel="snick-east">
-    <title lang="en">Little Bear</title>
-    <category lang="en">Nick Jr 2</category>
-    <episode-num system="onscreen">29</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTczNDQwMjU3MF5BMl5BanBnXkFtZTcwODUwMzMzMQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117173130 +0000" stop="20261117180000 +0000" channel="snick-east">
-    <title lang="en">Blue's Clues</title>
-    <category lang="en">Nick Jr 2</category>
-    <episode-num system="onscreen">79</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1OTE3MzE0OV5BMl5BanBnXkFtZTcwOTk4OTQ1MQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"/>
   </programme>
   <programme start="20261117180000 +0000" stop="20261117182920 +0000" channel="snick-east">
     <title lang="en">Flipper</title>
@@ -2136,148 +2016,146 @@
     <episode-num system="onscreen">32</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BNTg0NzAzMjY4OV5BMl5BanBnXkFtZTcwNjQ5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261119090000 +0000" stop="20261119093000 +0000" channel="snick-east">
+  <programme start="20261119090000 +0000" stop="20261119092824 +0000" channel="snick-east">
     <title lang="en">Alfred Hitchcock Presents</title>
     <category lang="en">Nick at Nite 3</category>
     <episode-num system="onscreen">145</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BOWQ1OGI0ZTItOTNkYi00NWFhLWE3ZWYtODVmMjkzMmM1NDYwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR106,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117060000 +0000" stop="20261117063000 +0000" channel="snick-west">
-    <title lang="en">Rocky and Bullwinkle</title>
-    <category lang="en">Bullwinkle's Moose-O-Rama</category>
-    <episode-num system="onscreen">6</episode-num>
-  </programme>
-  <programme start="20261117063000 +0000" stop="20261117070000 +0000" channel="snick-west">
-    <title lang="en">Bewitched</title>
-    <category lang="en">Nick at Nite 1</category>
-    <episode-num system="onscreen">49</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTU5OTkzNDIyOF5BMl5BanBnXkFtZTcwMjk1OTEzMQ@@._V1._CR30,34,304,426_UY1200_CR113,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117070000 +0000" stop="20261117073002 +0000" channel="snick-west">
-    <title lang="en">My Three Sons</title>
-    <category lang="en">Nick at Nite 2</category>
-    <episode-num system="onscreen">19</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTMyMjUwMTA1NF5BMl5BanBnXkFtZTcwNjc1MDg5MQ@@._V1._CR13,0,329,401_UY1200_CR177,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117073002 +0000" stop="20261117080000 +0000" channel="snick-west">
-    <title lang="en">Mister Ed</title>
-    <category lang="en">Nick at Nite 2</category>
-    <episode-num system="onscreen">31</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTg0NzAzMjY4OV5BMl5BanBnXkFtZTcwNjQ5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117080000 +0000" stop="20261117082931 +0000" channel="snick-west">
-    <title lang="en">Alfred Hitchcock Presents</title>
-    <category lang="en">Nick at Nite 3</category>
-    <episode-num system="onscreen">144</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWQ1OGI0ZTItOTNkYi00NWFhLWE3ZWYtODVmMjkzMmM1NDYwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR106,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117082931 +0000" stop="20261117090000 +0000" channel="snick-west">
+  <programme start="20261119092824 +0000" stop="20261119100000 +0000" channel="snick-east">
     <title lang="en">The Adventures of Superman</title>
     <category lang="en">Nick at Nite 3</category>
-    <episode-num system="onscreen">72</episode-num>
+    <episode-num system="onscreen">73</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BZmYwMzY4OWMtZmYxMC00M2VmLWFlZDgtMWEyY2IzNDdjNWRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR135,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117090000 +0000" stop="20261117092945 +0000" channel="snick-west">
+  <programme start="20261119100000 +0000" stop="20261119102946 +0000" channel="snick-east">
     <title lang="en">The Lucy Show</title>
     <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">124</episode-num>
+    <episode-num system="onscreen">125</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BYmYzYzhmYjMtMTI3Mi00MjU4LTkwMDctODNiYjU1ZGQ1ZmZjXkEyXkFqcGdeQXVyNzkyMDY4NTA@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117092945 +0000" stop="20261117100000 +0000" channel="snick-west">
+  <programme start="20261119102946 +0000" stop="20261119110000 +0000" channel="snick-east">
     <title lang="en">Green Acres</title>
     <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">20</episode-num>
+    <episode-num system="onscreen">21</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTczMTQ1ODg3N15BMl5BanBnXkFtZTcwMTQ2NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117100000 +0000" stop="20261117102952 +0000" channel="snick-west">
+  <programme start="20261119110000 +0000" stop="20261119112938 +0000" channel="snick-east">
     <title lang="en">The Patty Duke Show</title>
     <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">72</episode-num>
+    <episode-num system="onscreen">73</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTg1MDQ3MzQ3NF5BMl5BanBnXkFtZTcwNjc5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117102952 +0000" stop="20261117110000 +0000" channel="snick-west">
+  <programme start="20261119112938 +0000" stop="20261119120000 +0000" channel="snick-east">
     <title lang="en">The Many Loves of Dobie Gillis</title>
     <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">40</episode-num>
+    <episode-num system="onscreen">41</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTExNTg5MDM3OTdeQTJeQWpwZ15BbWU2MDA4ODkzNg@@._V1_UY1200_CR103,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117110000 +0000" stop="20261117113002 +0000" channel="snick-west">
-    <title lang="en">My Three Sons</title>
-    <category lang="en">Nick at Nite 2</category>
-    <episode-num system="onscreen">19</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTMyMjUwMTA1NF5BMl5BanBnXkFtZTcwNjc1MDg5MQ@@._V1._CR13,0,329,401_UY1200_CR177,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117113002 +0000" stop="20261117120000 +0000" channel="snick-west">
-    <title lang="en">Mister Ed</title>
-    <category lang="en">Nick at Nite 2</category>
-    <episode-num system="onscreen">31</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTg0NzAzMjY4OV5BMl5BanBnXkFtZTcwNjQ5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261117122931 +0000" channel="snick-west">
-    <title lang="en">Alfred Hitchcock Presents</title>
-    <category lang="en">Nick at Nite 3</category>
-    <episode-num system="onscreen">144</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWQ1OGI0ZTItOTNkYi00NWFhLWE3ZWYtODVmMjkzMmM1NDYwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR106,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117122931 +0000" stop="20261117130000 +0000" channel="snick-west">
-    <title lang="en">The Adventures of Superman</title>
-    <category lang="en">Nick at Nite 3</category>
-    <episode-num system="onscreen">72</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmYwMzY4OWMtZmYxMC00M2VmLWFlZDgtMWEyY2IzNDdjNWRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR135,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117130000 +0000" stop="20261117132945 +0000" channel="snick-west">
-    <title lang="en">The Lucy Show</title>
-    <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">124</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYmYzYzhmYjMtMTI3Mi00MjU4LTkwMDctODNiYjU1ZGQ1ZmZjXkEyXkFqcGdeQXVyNzkyMDY4NTA@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117132945 +0000" stop="20261117140000 +0000" channel="snick-west">
-    <title lang="en">Green Acres</title>
-    <category lang="en">Nick at Nite 4</category>
-    <episode-num system="onscreen">20</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMTQ1ODg3N15BMl5BanBnXkFtZTcwMTQ2NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117140000 +0000" stop="20261117142952 +0000" channel="snick-west">
-    <title lang="en">The Patty Duke Show</title>
-    <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">72</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg1MDQ3MzQ3NF5BMl5BanBnXkFtZTcwNjc5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117142952 +0000" stop="20261117150000 +0000" channel="snick-west">
-    <title lang="en">The Many Loves of Dobie Gillis</title>
-    <category lang="en">Nick at Nite 5</category>
-    <episode-num system="onscreen">40</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTExNTg5MDM3OTdeQTJeQWpwZ15BbWU2MDA4ODkzNg@@._V1_UY1200_CR103,0,630,1200_AL_.jpg"/>
-  </programme>
-  <programme start="20261117150000 +0000" stop="20261117153217 +0000" channel="snick-west">
+  <programme start="20261119120000 +0000" stop="20261119123209 +0000" channel="snick-east">
     <title lang="en">Land of the Lost 1991</title>
     <category lang="en">Nickelodeon 1</category>
-    <episode-num system="onscreen">15</episode-num>
+    <episode-num system="onscreen">16</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTk2NDE2MDkxNF5BMl5BanBnXkFtZTYwNDAwOTk5._V1_UY1200_CR52,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117153217 +0000" stop="20261117160626 +0000" channel="snick-west">
-    <title lang="en">You Can't Do That on Television</title>
+  <programme start="20261119123209 +0000" stop="20261119130604 +0000" channel="snick-east">
+    <title lang="en">Mr Wizard</title>
     <category lang="en">Nickelodeon 1</category>
-    <episode-num system="onscreen">22</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWFhYTk0NTItODE3YS00YWI3LWE5YzgtMTgxYmMyZGI5Yzk1XkEyXkFqcGdeQXVyNzU1Mjc4OTI@._V1_UY1200_CR585,0,630,1200_AL_.jpg"/>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2UyZjgzMzQtMjUyMi00NDkxLWEyMDAtOTEwZjY2MmYwZTljXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_UY1200_CR140,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117160626 +0000" stop="20261117170000 +0000" channel="snick-west">
+  <programme start="20261119130604 +0000" stop="20261119140000 +0000" channel="snick-east">
     <title lang="en">Flipper The New Adventures</title>
     <category lang="en">Nickelodeon 1</category>
-    <episode-num system="onscreen">21</episode-num>
+    <episode-num system="onscreen">23</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTUzNTA4NTA4OF5BMl5BanBnXkFtZTcwNDQ1Mjg4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117170000 +0000" stop="20261117173119 +0000" channel="snick-west">
-    <title lang="en">Noozles</title>
+  <programme start="20261119140000 +0000" stop="20261119142550 +0000" channel="snick-east">
+    <title lang="en">Maya the Bee</title>
     <category lang="en">Nick Jr 1</category>
-    <episode-num system="onscreen">10</episode-num>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjEyNjgwNzg3MV5BMl5BanBnXkFtZTcwNDcwOTMyMQ@@._V1_UY1200_CR8,0,630,1200_AL_.jpg"/>
+    <episode-num system="onscreen">11</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU5MDY0OTE3MV5BMl5BanBnXkFtZTcwNjYwODgxMQ@@._V1_UY1200_CR76,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261117173119 +0000" stop="20261117175702 +0000" channel="snick-west">
-    <title lang="en">Grimms Fairy Tale Classics</title>
+  <programme start="20261119142550 +0000" stop="20261119145503 +0000" channel="snick-east">
+    <title lang="en">David The Gnome</title>
     <category lang="en">Nick Jr 1</category>
-    <episode-num system="onscreen">2</episode-num>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/a53RFDM.jpg"/>
+    <episode-num system="onscreen">11</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDljMDQ1MTgtZjZmZC00ZDc5LWE5ZTQtOWVlNWI1NTNkMDBlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY1200_CR101,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119145503 +0000" stop="20261119152955 +0000" channel="snick-east">
+    <title lang="en">Busy World of Richard Scarry</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">31</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTY4NTg4NzkzMF5BMl5BanBnXkFtZTgwNjE4MzIxMjE@._V1_UY1200_CR239,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119152955 +0000" stop="20261119160000 +0000" channel="snick-east">
+    <title lang="en">Muppet Babies</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">13</episode-num>
+  </programme>
+  <programme start="20261119160000 +0000" stop="20261119162902 +0000" channel="snick-east">
+    <title lang="en">Allegras Window</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5NDM2MzQ1NV5BMl5BanBnXkFtZTcwODM3NTMyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119162902 +0000" stop="20261119170009 +0000" channel="snick-east">
+    <title lang="en">Gullah Gullah Island</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">23</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1Mjc4MDQ1NF5BMl5BanBnXkFtZTcwMTc2MTIyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119170009 +0000" stop="20261119173137 +0000" channel="snick-east">
+    <title lang="en">Little Bear</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">31</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTczNDQwMjU3MF5BMl5BanBnXkFtZTcwODUwMzMzMQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119173137 +0000" stop="20261119180000 +0000" channel="snick-east">
+    <title lang="en">Blue's Clues</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">81</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1OTE3MzE0OV5BMl5BanBnXkFtZTcwOTk4OTQ1MQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119180000 +0000" stop="20261119183123 +0000" channel="snick-east">
+    <title lang="en">Flipper</title>
+    <category lang="en">Nickelodeon 2</category>
+    <episode-num system="onscreen">80</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmUzZGFiYTYtY2I3Ny00MGJmLTlmZTItNTNhZTJjZGQyNDdiXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY1200_CR83,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119183123 +0000" stop="20261119190000 +0000" channel="snick-east">
+    <title lang="en">Lassie</title>
+    <category lang="en">Nickelodeon 2</category>
+    <episode-num system="onscreen">26</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmU1ZmY2OGQtYTcyMy00NGNhLWI4NWEtMzcwYzkxNjVmNGI0XkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_UY1200_CR87,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119190000 +0000" stop="20261119191007 +0000" channel="snick-east">
+    <title lang="en">The Gumby Show</title>
+    <category lang="en">Nickelodeon 3</category>
+    <episode-num system="onscreen">34</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTc3MTg3ODIzM15BMl5BanBnXkFtZTcwMzgyODkyMQ@@._V1_UY1200_CR97,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119191007 +0000" stop="20261119194026 +0000" channel="snick-east">
+    <title lang="en">Garfield and Friends</title>
+    <category lang="en">Nickelodeon 3</category>
+    <episode-num system="onscreen">40</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1NDQwODgxMF5BMl5BanBnXkFtZTcwNzEzMjYyMQ@@._V1_UY1200_CR121,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119194026 +0000" stop="20261119200613 +0000" channel="snick-east">
+    <title lang="en">Inspector Gadget</title>
+    <category lang="en">Nickelodeon 3</category>
+    <episode-num system="onscreen">44</episode-num>
+  </programme>
+  <programme start="20261119200613 +0000" stop="20261119203351 +0000" channel="snick-east">
+    <title lang="en">The Adventures of Tintin</title>
+    <category lang="en">Nickelodeon 3</category>
+    <episode-num system="onscreen">31</episode-num>
+  </programme>
+  <programme start="20261119203351 +0000" stop="20261119210351 +0000" channel="snick-east">
+    <title lang="en">Count Duckula</title>
+    <category lang="en">Nickelodeon 3</category>
+    <episode-num system="onscreen">40</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNGM2Nzg5ZjItNWI0YS00YjkzLTljZDAtYjU2MDU2YTkyNzJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR106,0,630,1200_AL_.jpg"/>
   </programme>
   <programme start="20261117175702 +0000" stop="20261117183138 +0000" channel="snick-west">
     <title lang="en">Busy World of Richard Scarry</title>
@@ -2729,10 +2607,147 @@
     <episode-num system="onscreen">73</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BZmYwMzY4OWMtZmYxMC00M2VmLWFlZDgtMWEyY2IzNDdjNWRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR135,0,630,1200_AL_.jpg"/>
   </programme>
-  <programme start="20261119090000 +0000" stop="20261119093000 +0000" channel="snick-west">
+  <programme start="20261119090000 +0000" stop="20261119092946 +0000" channel="snick-west">
     <title lang="en">The Lucy Show</title>
     <category lang="en">Nick at Nite 4</category>
     <episode-num system="onscreen">125</episode-num>
     <icon src="https://m.media-amazon.com/images/M/MV5BYmYzYzhmYjMtMTI3Mi00MjU4LTkwMDctODNiYjU1ZGQ1ZmZjXkEyXkFqcGdeQXVyNzkyMDY4NTA@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119092946 +0000" stop="20261119100000 +0000" channel="snick-west">
+    <title lang="en">Green Acres</title>
+    <category lang="en">Nick at Nite 4</category>
+    <episode-num system="onscreen">21</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMTQ1ODg3N15BMl5BanBnXkFtZTcwMTQ2NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119100000 +0000" stop="20261119102938 +0000" channel="snick-west">
+    <title lang="en">The Patty Duke Show</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">73</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg1MDQ3MzQ3NF5BMl5BanBnXkFtZTcwNjc5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119102938 +0000" stop="20261119110000 +0000" channel="snick-west">
+    <title lang="en">The Many Loves of Dobie Gillis</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">41</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTExNTg5MDM3OTdeQTJeQWpwZ15BbWU2MDA4ODkzNg@@._V1_UY1200_CR103,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119110000 +0000" stop="20261119112954 +0000" channel="snick-west">
+    <title lang="en">My Three Sons</title>
+    <category lang="en">Nick at Nite 2</category>
+    <episode-num system="onscreen">20</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTMyMjUwMTA1NF5BMl5BanBnXkFtZTcwNjc1MDg5MQ@@._V1._CR13,0,329,401_UY1200_CR177,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119112954 +0000" stop="20261119120000 +0000" channel="snick-west">
+    <title lang="en">Mister Ed</title>
+    <category lang="en">Nick at Nite 2</category>
+    <episode-num system="onscreen">32</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTg0NzAzMjY4OV5BMl5BanBnXkFtZTcwNjQ5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119120000 +0000" stop="20261119122824 +0000" channel="snick-west">
+    <title lang="en">Alfred Hitchcock Presents</title>
+    <category lang="en">Nick at Nite 3</category>
+    <episode-num system="onscreen">145</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWQ1OGI0ZTItOTNkYi00NWFhLWE3ZWYtODVmMjkzMmM1NDYwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR106,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119122824 +0000" stop="20261119130000 +0000" channel="snick-west">
+    <title lang="en">The Adventures of Superman</title>
+    <category lang="en">Nick at Nite 3</category>
+    <episode-num system="onscreen">73</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmYwMzY4OWMtZmYxMC00M2VmLWFlZDgtMWEyY2IzNDdjNWRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR135,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119130000 +0000" stop="20261119132946 +0000" channel="snick-west">
+    <title lang="en">The Lucy Show</title>
+    <category lang="en">Nick at Nite 4</category>
+    <episode-num system="onscreen">125</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYmYzYzhmYjMtMTI3Mi00MjU4LTkwMDctODNiYjU1ZGQ1ZmZjXkEyXkFqcGdeQXVyNzkyMDY4NTA@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119132946 +0000" stop="20261119140000 +0000" channel="snick-west">
+    <title lang="en">Green Acres</title>
+    <category lang="en">Nick at Nite 4</category>
+    <episode-num system="onscreen">21</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMTQ1ODg3N15BMl5BanBnXkFtZTcwMTQ2NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119140000 +0000" stop="20261119142938 +0000" channel="snick-west">
+    <title lang="en">The Patty Duke Show</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">73</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg1MDQ3MzQ3NF5BMl5BanBnXkFtZTcwNjc5NTQ4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119142938 +0000" stop="20261119150000 +0000" channel="snick-west">
+    <title lang="en">The Many Loves of Dobie Gillis</title>
+    <category lang="en">Nick at Nite 5</category>
+    <episode-num system="onscreen">41</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTExNTg5MDM3OTdeQTJeQWpwZ15BbWU2MDA4ODkzNg@@._V1_UY1200_CR103,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119150000 +0000" stop="20261119153209 +0000" channel="snick-west">
+    <title lang="en">Land of the Lost 1991</title>
+    <category lang="en">Nickelodeon 1</category>
+    <episode-num system="onscreen">16</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk2NDE2MDkxNF5BMl5BanBnXkFtZTYwNDAwOTk5._V1_UY1200_CR52,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119153209 +0000" stop="20261119160604 +0000" channel="snick-west">
+    <title lang="en">Mr Wizard</title>
+    <category lang="en">Nickelodeon 1</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2UyZjgzMzQtMjUyMi00NDkxLWEyMDAtOTEwZjY2MmYwZTljXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_UY1200_CR140,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119160604 +0000" stop="20261119170000 +0000" channel="snick-west">
+    <title lang="en">Flipper The New Adventures</title>
+    <category lang="en">Nickelodeon 1</category>
+    <episode-num system="onscreen">23</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUzNTA4NTA4OF5BMl5BanBnXkFtZTcwNDQ1Mjg4NA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119170000 +0000" stop="20261119172550 +0000" channel="snick-west">
+    <title lang="en">Maya the Bee</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">11</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU5MDY0OTE3MV5BMl5BanBnXkFtZTcwNjYwODgxMQ@@._V1_UY1200_CR76,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119172550 +0000" stop="20261119175503 +0000" channel="snick-west">
+    <title lang="en">David The Gnome</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">11</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDljMDQ1MTgtZjZmZC00ZDc5LWE5ZTQtOWVlNWI1NTNkMDBlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY1200_CR101,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119175503 +0000" stop="20261119182955 +0000" channel="snick-west">
+    <title lang="en">Busy World of Richard Scarry</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">31</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTY4NTg4NzkzMF5BMl5BanBnXkFtZTgwNjE4MzIxMjE@._V1_UY1200_CR239,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119182955 +0000" stop="20261119190000 +0000" channel="snick-west">
+    <title lang="en">Muppet Babies</title>
+    <category lang="en">Nick Jr 1</category>
+    <episode-num system="onscreen">13</episode-num>
+  </programme>
+  <programme start="20261119190000 +0000" stop="20261119192902 +0000" channel="snick-west">
+    <title lang="en">Allegras Window</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">13</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5NDM2MzQ1NV5BMl5BanBnXkFtZTcwODM3NTMyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119192902 +0000" stop="20261119200009 +0000" channel="snick-west">
+    <title lang="en">Gullah Gullah Island</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">23</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1Mjc4MDQ1NF5BMl5BanBnXkFtZTcwMTc2MTIyMQ@@._V1_UY1200_CR7,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119200009 +0000" stop="20261119203137 +0000" channel="snick-west">
+    <title lang="en">Little Bear</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">31</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTczNDQwMjU3MF5BMl5BanBnXkFtZTcwODUwMzMzMQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119203137 +0000" stop="20261119210000 +0000" channel="snick-west">
+    <title lang="en">Blue's Clues</title>
+    <category lang="en">Nick Jr 2</category>
+    <episode-num system="onscreen">81</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE1OTE3MzE0OV5BMl5BanBnXkFtZTcwOTk4OTQ1MQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg"/>
+  </programme>
+  <programme start="20261119210000 +0000" stop="20261119213000 +0000" channel="snick-west">
+    <title lang="en">Flipper</title>
+    <category lang="en">Nickelodeon 2</category>
+    <episode-num system="onscreen">80</episode-num>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmUzZGFiYTYtY2I3Ny00MGJmLTlmZTItNTNhZTJjZGQyNDdiXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY1200_CR83,0,630,1200_AL_.jpg"/>
   </programme>
 </tv>
